@@ -69,17 +69,17 @@ app = FastAPI()
 # =========================
 class GlobalState:
     # case1
-    df_raw_case1: pd.DataFrame | None = None
+    df_raw_case1= None
 
     # case2
-    runner_case2: AnomalyQuadRunner | None = None
-    df_ts_case2: pd.DataFrame | None = None
-    df_thr_case2: pd.DataFrame | None = None
+    runner_case2= None
+    df_ts_case2=None
+    df_thr_case2 = None
 
     # case3
-    runner_case3: ForecastMultiRunner | None = None
-    forecaster_case3: HorizonForecasterClassic | None = None
-    df_raw_case3: pd.DataFrame | None = None
+    runner_case3 = None
+    forecaster_case3 = None
+    df_raw_case3 = None
 
 state = GlobalState()
 from pathlib import Path
