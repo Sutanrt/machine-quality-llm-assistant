@@ -1,0 +1,22 @@
+code,scope,granularity,time_complexity,description
+A1,NOT_ALL,HOUR,POINT,Subset mesin; hour; point
+A2,NOT_ALL,DAY,PERIOD,Subset mesin; day; period
+A3,NOT_ALL,WEEK,PERIOD,Subset mesin; week; period
+A4,NOT_ALL,MONTH,PERIOD,Subset mesin; month; period
+A5,NOT_ALL,DAY,RANGE_CLEAR,Subset mesin; day; range clear
+A6,NOT_ALL,SHIFT,SHIFT,Subset mesin; shift; shift
+A7,NOT_ALL,DAY,PERIOD,Subset mesin; day; period
+A8,NOT_ALL,WEEK,PERIOD,Subset mesin; week; period
+A9,NOT_ALL,MONTH,PERIOD,Subset mesin; month; period
+A10,NOT_ALL,DAY,RANGE_CLEAR,Subset mesin; day; range clear
+A11,ALL,DAY,PERIOD,Semua mesin; day; period
+A12,ALL,WEEK,PERIOD,Semua mesin; week; period
+A13,ALL,MONTH,PERIOD,Semua mesin; month; period
+A14,ALL,DAY,RANGE_CLEAR,Semua mesin; day; range clear
+A15,ALL,SHIFT,SHIFT,Semua mesin; shift; shift
+R1,NOT_ALL,DAY,RANGE_REL,Subset mesin; day; range rel
+R2,NOT_ALL,WEEK,RANGE_REL,Subset mesin; week; range rel
+R3,NOT_ALL,MONTH,RANGE_REL,Subset mesin; month; range rel
+R4,ALL,DAY,RANGE_REL,Semua mesin; day; range rel
+R5,ALL,WEEK,RANGE_REL,Semua mesin; week; range rel
+R6,ALL,MONTH,RANGE_REL,Semua mesin; month; range rel

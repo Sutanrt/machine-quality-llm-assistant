@@ -1,0 +1,28 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+env/
+
+# ===== Node / Frontend =====
+node_modules/
+.next/
+dist/
+build/
+
+# ===== Logs & Temp =====
+logs/
+*.log
+
+# ===== Data & Model =====
+data/
+datasets/
+models/
+runs/
+checkpoints/
+*.pt
+*.bin
+*.h5
+*.ckpt

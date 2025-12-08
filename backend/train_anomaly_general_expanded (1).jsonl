@@ -1,0 +1,975 @@
+{"text": "Mohon analisis mesin XP888A hari ini, apakah muncul data aneh?", "label": "A2"}
+{"text": "Apakah ada mesin XR101 3 jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Pengen tahu, ada gak mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Pengen tahu, ada gak mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A14"}
+{"text": "Ada masalah gak di mesin PQ667 2 minggu terakhir?", "label": "A5"}
+{"text": "Apakah mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Tolong cek mesin XP888A bulan lalu, apakah ada anomali?", "label": "A4"}
+{"text": "Apakah ada mesin XP888A dan XR101 hari ini, apakah muncul data aneh?", "label": "A7"}
+{"text": "Apakah mesin XP888A beberapa jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Tolong cek mesin XP888A dan PQ667 kemarin, apakah mengalami masalah?", "label": "A7"}
+{"text": "Tolong dong, cekin mesin XR101 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Mohon analisis mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Adakah mesin PQ667 yang tidak normal sejak awal bulan ini?", "label": "A10"}
+{"text": "Apakah ada mesin PQ667 dua minggu terakhir, apakah muncul data aneh?", "label": "A3"}
+{"text": "Coba tampilkan mesin XP888A beberapa jam terakhir, apakah muncul data aneh?", "label": "A12"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan XR101 minggu ini, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Apakah mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin PQ667 10–20 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Mohon analisis mesin XR101 bulan lalu, apakah muncul data aneh?", "label": "A4"}
+{"text": "Coba tampilkan mesin XR101 antara 5 dan 12 Maret 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Apakah mesin XP888A bulan lalu, apakah muncul data aneh?", "label": "A4"}
+{"text": "Adakah mesin XP888A yang tidak normal 3 minggu terakhir?", "label": "A14"}
+{"text": "Tolong cek mesin XR101 minggu lalu, apakah muncul data aneh?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 bulan ini, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Tolong tampilkan mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Apakah mesin XP888A dan PQ667 bulan ini, apakah mengalami masalah?", "label": "A9"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan PQ667 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Tolong tampilkan mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah ada mesin XR101 shift pagi, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Kayaknya ada deh mesin XP888A dan XR101 2 hari terakhir, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Coba tampilkan mesin XP888A 2 hari terakhir, apakah ada anomali?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin XP888A 1 jam terakhir, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Tolong dong, cekin mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A10"}
+{"text": "Coba lihat deh, ada gak mesin XR101 shift siang, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Coba tampilkan mesin XP888A dan PQ667 minggu lalu, apakah mengalami masalah?", "label": "A8"}
+{"text": "Tolong tampilkan mesin PQ667 dan XR101 kemarin, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Tolong tampilkan mesin XR101 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin PQ667 1 jam terakhir, apakah muncul data aneh?", "label": "A13"}
+{"text": "Harap ditampilkan mesin PQ667 1 jam terakhir, apakah muncul data aneh?", "label": "A14"}
+{"text": "Tolong tampilkan mesin XP888A 3 jam terakhir, apakah muncul data aneh?", "label": "A11"}
+{"text": "Pengen tahu, ada gak mesin XP888A shift pagi, apakah muncul data aneh?", "label": "A6"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Coba lihat deh, ada gak mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Apakah ada mesin XP888A sejak jam 8 pagi, apakah muncul data aneh?", "label": "A11"}
+{"text": "Apakah ada anomali mesin PQ667 shift malam?", "label": "A6"}
+{"text": "Apakah ada mesin PQ667 1 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Bagaimana kondisi mesin PQ667 2 hari terakhir, ada yang aneh?", "label": "A5"}
+{"text": "Mohon analisis mesin PQ667 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Ada keanehan mesin XP888A 3 bulan terakhir?", "label": "A1"}
+{"text": "Harap ditampilkan mesin XP888A shift siang, apakah ada anomali?", "label": "A6"}
+{"text": "Tolong tampilkan mesin XR101 minggu lalu, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin PQ667 bulan ini, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 bulan lalu, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar sejak awal bulan ini?", "label": "A5"}
+{"text": "Ada masalah gak di mesin XP888A bulan lalu?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Tolong cek mesin PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A1"}
+{"text": "Kayaknya ada deh mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Apakah ada mesin XP888A minggu ini, apakah muncul data aneh?", "label": "A3"}
+{"text": "Tolong tampilkan mesin XP888A minggu lalu, apakah mengalami masalah?", "label": "A3"}
+{"text": "Mohon periksa mesin PQ667 shift malam, apakah ada anomali?", "label": "A6"}
+{"text": "Harap ditampilkan mesin PQ667 dan XR101 hari ini, apakah mengalami masalah?", "label": "A7"}
+{"text": "Bagaimana kondisi mesin PQ667 shift pagi, ada yang aneh?", "label": "A6"}
+{"text": "Tolong dong, cekin mesin XP888A dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Kayaknya ada deh mesin XR101 bulan ini, apakah muncul data aneh?", "label": "A4"}
+{"text": "Tolong dong, cekin mesin XP888A dan XR101 bulan ini, apakah ada anomali?", "label": "A9"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 shift siang?", "label": "A6"}
+{"text": "Kayaknya ada deh mesin PQ667 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A11"}
+{"text": "Coba tampilkan mesin XR101 dua minggu terakhir, apakah mengalami masalah?", "label": "A3"}
+{"text": "Ada masalah gak di mesin PQ667 sejak jam 8 pagi?", "label": "A15"}
+{"text": "Coba tampilkan mesin PQ667 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Mohon analisis mesin PQ667 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A14"}
+{"text": "Pengen tahu, ada gak mesin XR101 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Kayaknya ada deh mesin XR101 dua minggu terakhir, apakah muncul data aneh?", "label": "A3"}
+{"text": "Coba lihat deh, ada gak mesin XP888A 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Mohon analisis mesin XR101 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 periode 1–15 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Mohon periksa mesin XP888A dan PQ667 2 hari terakhir, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Tolong dong, cekin mesin XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Mohon analisis mesin XP888A bulan lalu, apakah mengalami masalah?", "label": "A4"}
+{"text": "Pengen tahu, ada gak mesin XP888A bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Apakah mesin PQ667 shift pagi, apakah muncul data aneh?", "label": "A6"}
+{"text": "Mohon periksa mesin XP888A dan PQ667 minggu lalu, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Tolong dong, cekin mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Coba tampilkan mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Pengen tahu, ada gak mesin XP888A bulan lalu, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Mohon periksa mesin XP888A dan PQ667 2 hari terakhir, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Kayaknya ada deh mesin XP888A 3 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Coba lihat deh, ada gak mesin XR101 shift pagi, apakah mengalami masalah?", "label": "A6"}
+{"text": "Adakah mesin XR101 yang tidak normal 3 bulan terakhir?", "label": "A3"}
+{"text": "Harap ditampilkan mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Apakah mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A1"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar seminggu terakhir?", "label": "A13"}
+{"text": "Pengen tahu, ada gak mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Tolong tampilkan mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Coba tampilkan mesin PQ667 1 jam terakhir, apakah muncul data aneh?", "label": "A12"}
+{"text": "Ada masalah gak di mesin XR101 3 jam terakhir?", "label": "A15"}
+{"text": "Tolong cek mesin XP888A periode 1–15 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin PQ667 10–20 Januari 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Coba tampilkan mesin XR101 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A13"}
+{"text": "Ada keanehan mesin PQ667 dan XR101 3 minggu terakhir?", "label": "A9"}
+{"text": "Ada keanehan mesin XP888A dan PQ667 sejak minggu lalu?", "label": "A7"}
+{"text": "Harap ditampilkan mesin PQ667 dan XR101 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XP888A sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Harap ditampilkan mesin PQ667 1 Feb sampai 10 Feb 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Coba tampilkan mesin XP888A beberapa jam terakhir, apakah muncul data aneh?", "label": "A15"}
+{"text": "Mohon analisis mesin PQ667 10–20 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Coba tampilkan mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XR101 1 jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Bagaimana kondisi mesin PQ667 2 minggu terakhir, ada yang aneh?", "label": "A3"}
+{"text": "Apakah mesin PQ667 dan XR101 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A8"}
+{"text": "Harap ditampilkan mesin XR101 shift malam, apakah mengalami masalah?", "label": "A6"}
+{"text": "Coba lihat deh, ada gak mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Adakah mesin PQ667 yang tidak normal sejak jam 8 pagi?", "label": "A1"}
+{"text": "Apakah ada mesin XP888A sejak jam 8 pagi, apakah mengalami masalah?", "label": "A11"}
+{"text": "Tolong dong, cekin mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Coba tampilkan mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Mohon analisis mesin XR101 2 hari terakhir, apakah ada anomali?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin PQ667 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A1"}
+{"text": "Tolong cek mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Apakah ada mesin XR101 shift pagi, apakah muncul data aneh?", "label": "A6"}
+{"text": "Ada keanehan mesin XP888A minggu lalu?", "label": "A3"}
+{"text": "Coba lihat deh, ada gak mesin XR101 minggu ini, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Ada masalah gak di mesin XP888A dan XR101 2 hari terakhir?", "label": "A7"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Pengen tahu, ada gak mesin XR101 antara 5 dan 12 Maret 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Ada masalah gak di mesin PQ667 dan XR101 3 minggu terakhir?", "label": "A8"}
+{"text": "Coba tampilkan mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A15"}
+{"text": "Pengen tahu, ada gak mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Mohon periksa mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 sejak minggu lalu?", "label": "A2"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Mohon analisis mesin XR101 hari ini, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Mohon analisis mesin PQ667 beberapa jam terakhir, apakah muncul data aneh?", "label": "A12"}
+{"text": "Harap ditampilkan mesin XR101 minggu ini, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Mohon periksa mesin XR101 minggu lalu, apakah mengalami masalah?", "label": "A3"}
+{"text": "Pengen tahu, ada gak mesin XR101 shift malam, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Adakah mesin PQ667 dan XR101 yang tidak normal 2 hari terakhir?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Mohon analisis mesin PQ667 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Kayaknya ada deh mesin XP888A dan PQ667 dua minggu terakhir, apakah muncul data aneh?", "label": "A8"}
+{"text": "Kayaknya ada deh mesin PQ667 kemarin, apakah ada anomali?", "label": "A2"}
+{"text": "Kayaknya ada deh mesin XR101 3 jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 3 bulan terakhir?", "label": "A14"}
+{"text": "Tolong tampilkan mesin XR101 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Apakah ada mesin PQ667 dan XR101 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Harap ditampilkan mesin XP888A dan XR101 kemarin, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Kayaknya ada deh mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A14"}
+{"text": "Adakah mesin XR101 yang tidak normal 2 minggu terakhir?", "label": "A14"}
+{"text": "Coba tampilkan mesin XP888A 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A13"}
+{"text": "Tolong tampilkan mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Harap ditampilkan mesin XR101 beberapa jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Kayaknya ada deh mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A12"}
+{"text": "Bagaimana kondisi mesin XP888A dan PQ667 2 bulan terakhir, ada yang aneh?", "label": "A8"}
+{"text": "Adakah mesin PQ667 dan XR101 yang tidak normal 2 hari terakhir?", "label": "A7"}
+{"text": "Apakah ada anomali mesin XR101 sejak awal bulan ini?", "label": "A2"}
+{"text": "Pengen tahu, ada gak mesin PQ667 1 jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Apakah mesin PQ667 dan XR101 menunjukkan perilaku tidak wajar 3 bulan terakhir?", "label": "A8"}
+{"text": "Apakah mesin PQ667 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin PQ667 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Ada masalah gak di mesin XP888A dan XR101 sejak minggu lalu?", "label": "A7"}
+{"text": "Apakah ada mesin XP888A bulan ini, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Adakah mesin PQ667 yang tidak normal sejak awal bulan ini?", "label": "A5"}
+{"text": "Tolong tampilkan mesin XP888A 1 sampai 7 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Mohon periksa mesin XP888A 2 hari terakhir, apakah muncul data aneh?", "label": "A2"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar sejak awal bulan ini?", "label": "A5"}
+{"text": "Tolong tampilkan mesin XP888A dan XR101 bulan ini, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XP888A shift siang, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Apakah ada mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A12"}
+{"text": "Tolong cek mesin XR101 shift siang, apakah muncul data aneh?", "label": "A6"}
+{"text": "Coba tampilkan mesin XP888A shift malam, apakah ada anomali?", "label": "A6"}
+{"text": "Apakah ada mesin PQ667 minggu ini, apakah ada anomali?", "label": "A3"}
+{"text": "Harap ditampilkan mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Apakah mesin XR101 kemarin, apakah muncul data aneh?", "label": "A2"}
+{"text": "Tolong cek mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A14"}
+{"text": "Tolong cek mesin XP888A dan XR101 minggu lalu, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Tolong cek mesin XP888A dan XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Kayaknya ada deh mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Adakah mesin PQ667 yang tidak normal 2 bulan terakhir?", "label": "A4"}
+{"text": "Tolong tampilkan mesin PQ667 bulan ini, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Pengen tahu, ada gak mesin XP888A hari ini, apakah ada anomali?", "label": "A2"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 hari ini, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan PQ667 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Mohon periksa mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Ada masalah gak di mesin XR101 3 bulan terakhir?", "label": "A11"}
+{"text": "Coba tampilkan mesin XR101 1 jam terakhir, apakah muncul data aneh?", "label": "A11"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar 2 bulan terakhir?", "label": "A2"}
+{"text": "Apakah ada anomali mesin XR101 2 hari terakhir?", "label": "A10"}
+{"text": "Apakah mesin XR101 3 jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Tolong tampilkan mesin XP888A dan XR101 minggu ini, apakah mengalami masalah?", "label": "A8"}
+{"text": "Apakah mesin XP888A dan XR101 dua minggu terakhir, apakah ada anomali?", "label": "A8"}
+{"text": "Kayaknya ada deh mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Kayaknya ada deh mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A13"}
+{"text": "Apakah mesin PQ667 dan XR101 bulan ini, apakah mengalami masalah?", "label": "A9"}
+{"text": "Kayaknya ada deh mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Adakah mesin PQ667 yang tidak normal 3 jam terakhir?", "label": "A14"}
+{"text": "Bagaimana kondisi mesin XP888A sejak awal bulan ini, ada yang aneh?", "label": "A5"}
+{"text": "Harap ditampilkan mesin XP888A hari ini, apakah mengalami masalah?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Coba lihat deh, ada gak mesin XP888A minggu lalu, apakah ada anomali?", "label": "A3"}
+{"text": "Tolong tampilkan mesin PQ667 dan XR101 minggu ini, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Kayaknya ada deh mesin PQ667 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Mohon analisis mesin XR101 bulan lalu, apakah muncul data aneh?", "label": "A4"}
+{"text": "Coba tampilkan mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Adakah mesin PQ667 yang tidak normal 2 hari terakhir?", "label": "A1"}
+{"text": "Ada keanehan mesin PQ667 beberapa jam terakhir?", "label": "A11"}
+{"text": "Mohon periksa mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A11"}
+{"text": "Coba lihat deh, ada gak mesin XP888A 3 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 2 bulan terakhir?", "label": "A12"}
+{"text": "Apakah ada mesin XR101 3 jam terakhir, apakah muncul data aneh?", "label": "A11"}
+{"text": "Apakah ada mesin XP888A 2 hari terakhir, apakah muncul data aneh?", "label": "A2"}
+{"text": "Tolong tampilkan mesin XP888A sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Apakah ada mesin PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin PQ667 dan XR101 dua minggu terakhir, apakah ada anomali?", "label": "A8"}
+{"text": "Mohon analisis mesin XP888A shift siang, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Tolong cek mesin XR101 1 jam terakhir, apakah muncul data aneh?", "label": "A11"}
+{"text": "Apakah mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Apakah mesin XP888A dan XR101 menunjukkan perilaku tidak wajar seminggu terakhir?", "label": "A9"}
+{"text": "Mohon analisis mesin PQ667 shift malam, apakah mengalami masalah?", "label": "A6"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 seminggu terakhir?", "label": "A3"}
+{"text": "Mohon analisis mesin XP888A minggu lalu, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Coba tampilkan mesin XP888A dan XR101 minggu ini, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Bagaimana kondisi mesin XP888A 2 minggu terakhir, ada yang aneh?", "label": "A3"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan PQ667 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Tolong cek mesin PQ667 periode 1–15 Januari 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Tolong cek mesin XP888A hari ini, apakah ada anomali?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 minggu ini, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A dan PQ667 2 minggu terakhir?", "label": "A8"}
+{"text": "Kayaknya ada deh mesin XP888A bulan lalu, apakah muncul data aneh?", "label": "A4"}
+{"text": "Tolong tampilkan mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A10"}
+{"text": "Tolong cek mesin PQ667 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Apakah ada mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan PQ667 minggu lalu, apakah muncul data aneh?", "label": "A8"}
+{"text": "Tolong tampilkan mesin PQ667 periode 1–15 Januari 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin PQ667 minggu lalu, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Apakah ada anomali mesin XR101 3 bulan terakhir?", "label": "A13"}
+{"text": "Tolong tampilkan mesin PQ667 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Adakah mesin XP888A dan PQ667 yang tidak normal 2 minggu terakhir?", "label": "A8"}
+{"text": "Mohon periksa mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 beberapa jam terakhir?", "label": "A10"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A12"}
+{"text": "Apakah ada anomali mesin XP888A 3 minggu terakhir?", "label": "A2"}
+{"text": "Bagaimana kondisi mesin XR101 3 bulan terakhir, ada yang aneh?", "label": "A14"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan PQ667 2 hari terakhir, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah ada anomali mesin XP888A shift pagi?", "label": "A6"}
+{"text": "Mohon analisis mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Mohon analisis mesin XR101 3 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin PQ667 shift malam, apakah ada anomali?", "label": "A6"}
+{"text": "Ada keanehan mesin XR101 shift siang?", "label": "A6"}
+{"text": "Harap ditampilkan mesin XP888A dan XR101 bulan lalu, apakah mengalami masalah?", "label": "A9"}
+{"text": "Kayaknya ada deh mesin PQ667 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Harap ditampilkan mesin PQ667 beberapa jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Apakah mesin PQ667 10–20 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Ada masalah gak di mesin XR101 shift pagi?", "label": "A6"}
+{"text": "Tolong tampilkan mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A12"}
+{"text": "Tolong tampilkan mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Apakah ada anomali mesin XR101 2 minggu terakhir?", "label": "A11"}
+{"text": "Mohon periksa mesin PQ667 dan XR101 minggu lalu, apakah ada anomali?", "label": "A8"}
+{"text": "Apakah ada mesin PQ667 periode 1–15 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Apakah mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A15"}
+{"text": "Tolong tampilkan mesin XP888A dan PQ667 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Mohon periksa mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Apakah ada mesin XP888A dan XR101 bulan ini, apakah mengalami masalah?", "label": "A9"}
+{"text": "Adakah mesin PQ667 yang tidak normal 3 minggu terakhir?", "label": "A12"}
+{"text": "Apakah mesin XR101 hari ini, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Mohon periksa mesin XR101 bulan lalu, apakah mengalami masalah?", "label": "A4"}
+{"text": "Pengen tahu, ada gak mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A14"}
+{"text": "Bagaimana kondisi mesin XP888A 2 hari terakhir, ada yang aneh?", "label": "A4"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A15"}
+{"text": "Apakah mesin PQ667 1 sampai 7 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 minggu lalu, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Bagaimana kondisi mesin XP888A dan XR101 minggu lalu, ada yang aneh?", "label": "A8"}
+{"text": "Apakah ada mesin XP888A dan PQ667 2 hari terakhir, apakah muncul data aneh?", "label": "A7"}
+{"text": "Tolong cek mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A12"}
+{"text": "Apakah ada mesin XP888A dan PQ667 minggu lalu, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan PQ667 minggu ini, apakah muncul data aneh?", "label": "A8"}
+{"text": "Mohon analisis mesin XR101 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin XP888A dan XR101 kemarin, apakah muncul data aneh?", "label": "A7"}
+{"text": "Apakah mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Apakah ada mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah ada anomali mesin XP888A dan XR101 2 hari terakhir?", "label": "A8"}
+{"text": "Apakah mesin XR101 bulan lalu, apakah muncul data aneh?", "label": "A4"}
+{"text": "Ada masalah gak di mesin PQ667 sejak minggu lalu?", "label": "A5"}
+{"text": "Coba lihat deh, ada gak mesin XR101 shift siang, apakah mengalami masalah?", "label": "A6"}
+{"text": "Mohon analisis mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A12"}
+{"text": "Apakah mesin XR101 1 jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar sejak jam 8 pagi?", "label": "A14"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 dua minggu terakhir, apakah muncul data aneh?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin XR101 shift pagi, apakah ada anomali?", "label": "A6"}
+{"text": "Mohon analisis mesin XP888A 3 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar 1 jam terakhir?", "label": "A15"}
+{"text": "Bagaimana kondisi mesin XP888A beberapa jam terakhir, ada yang aneh?", "label": "A15"}
+{"text": "Ada keanehan mesin PQ667 shift pagi?", "label": "A6"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 shift siang, apakah mengalami masalah?", "label": "A6"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar 3 minggu terakhir?", "label": "A5"}
+{"text": "Mohon analisis mesin PQ667 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A10"}
+{"text": "Bagaimana kondisi mesin PQ667 1 jam terakhir, ada yang aneh?", "label": "A12"}
+{"text": "Tolong dong, cekin mesin PQ667 shift siang, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Ada masalah gak di mesin XR101 3 minggu terakhir?", "label": "A11"}
+{"text": "Adakah mesin XP888A yang tidak normal sejak awal bulan ini?", "label": "A10"}
+{"text": "Harap ditampilkan mesin XR101 periode 1–15 Januari 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Apakah ada anomali mesin XR101 3 jam terakhir?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin PQ667 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Ada masalah gak di mesin XR101 3 minggu terakhir?", "label": "A4"}
+{"text": "Coba tampilkan mesin XP888A 10–20 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin XP888A dan XR101 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Tolong cek mesin XP888A dan XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Bagaimana kondisi mesin XP888A dan XR101 2 minggu terakhir, ada yang aneh?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin PQ667 periode 1–15 Januari 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Tolong dong, cekin mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Coba lihat deh, ada gak mesin XR101 3 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Ada masalah gak di mesin PQ667 dan XR101 2 minggu terakhir?", "label": "A8"}
+{"text": "Ada masalah gak di mesin PQ667 sejak minggu lalu?", "label": "A3"}
+{"text": "Pengen tahu, ada gak mesin PQ667 hari ini, apakah mengalami masalah?", "label": "A2"}
+{"text": "Apakah ada anomali mesin XP888A 3 minggu terakhir?", "label": "A15"}
+{"text": "Ada masalah gak di mesin PQ667 2 hari terakhir?", "label": "A3"}
+{"text": "Mohon analisis mesin XP888A hari ini, apakah muncul data aneh?", "label": "A2"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 dan XR101 2 bulan terakhir?", "label": "A9"}
+{"text": "Apakah ada anomali mesin XR101 3 jam terakhir?", "label": "A11"}
+{"text": "Coba tampilkan mesin XP888A sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Mohon analisis mesin PQ667 shift pagi, apakah mengalami masalah?", "label": "A6"}
+{"text": "Apakah mesin PQ667 minggu lalu, apakah ada anomali?", "label": "A3"}
+{"text": "Tolong tampilkan mesin XR101 1 jam terakhir, apakah muncul data aneh?", "label": "A15"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar 3 bulan terakhir?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XR101 2 hari terakhir, apakah muncul data aneh?", "label": "A2"}
+{"text": "Mohon analisis mesin XP888A bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan PQ667 2 hari terakhir, apakah mengalami masalah?", "label": "A7"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 kemarin, apakah muncul data aneh?", "label": "A2"}
+{"text": "Coba tampilkan mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A11"}
+{"text": "Bagaimana kondisi mesin XP888A dan XR101 2 hari terakhir, ada yang aneh?", "label": "A7"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A 3 minggu terakhir?", "label": "A14"}
+{"text": "Coba tampilkan mesin PQ667 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Tolong tampilkan mesin XP888A 3 jam terakhir, apakah muncul data aneh?", "label": "A11"}
+{"text": "Ada keanehan mesin XR101 sejak awal bulan ini?", "label": "A11"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 seminggu terakhir?", "label": "A1"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar 1 jam terakhir?", "label": "A12"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Apakah mesin XP888A sejak jam 8 pagi, apakah muncul data aneh?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A12"}
+{"text": "Bagaimana kondisi mesin XR101 3 minggu terakhir, ada yang aneh?", "label": "A11"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Tolong tampilkan mesin PQ667 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Tolong dong, cekin mesin XP888A minggu ini, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Tolong cek mesin XR101 bulan lalu, apakah ada anomali?", "label": "A4"}
+{"text": "Adakah mesin XP888A yang tidak normal 2 bulan terakhir?", "label": "A14"}
+{"text": "Coba tampilkan mesin XP888A sejak jam 8 pagi, apakah muncul data aneh?", "label": "A10"}
+{"text": "Tolong dong, cekin mesin XR101 hari ini, apakah muncul data aneh?", "label": "A2"}
+{"text": "Pengen tahu, ada gak mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Bagaimana kondisi mesin PQ667 2 bulan terakhir, ada yang aneh?", "label": "A4"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 kemarin, apakah muncul data aneh?", "label": "A7"}
+{"text": "Tolong cek mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A14"}
+{"text": "Apakah ada anomali mesin XP888A seminggu terakhir?", "label": "A14"}
+{"text": "Pengen tahu, ada gak mesin PQ667 shift pagi, apakah muncul data aneh?", "label": "A6"}
+{"text": "Apakah ada mesin XP888A 1 jam terakhir, apakah terlihat tidak normal?", "label": "A15"}
+{"text": "Apakah ada anomali mesin XR101 3 jam terakhir?", "label": "A10"}
+{"text": "Harap ditampilkan mesin XR101 beberapa jam terakhir, apakah muncul data aneh?", "label": "A14"}
+{"text": "Mohon periksa mesin XP888A 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Mohon analisis mesin XR101 beberapa jam terakhir, apakah muncul data aneh?", "label": "A11"}
+{"text": "Kayaknya ada deh mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A15"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 2 minggu terakhir?", "label": "A2"}
+{"text": "Apakah mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Coba tampilkan mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Mohon periksa mesin XR101 3 jam terakhir, apakah muncul data aneh?", "label": "A14"}
+{"text": "Mohon periksa mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Ada keanehan mesin PQ667 seminggu terakhir?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin XR101 dua minggu terakhir, apakah mengalami masalah?", "label": "A3"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar sejak jam 8 pagi?", "label": "A15"}
+{"text": "Adakah mesin XR101 yang tidak normal sejak minggu lalu?", "label": "A10"}
+{"text": "Apakah ada mesin XP888A antara 5 dan 12 Maret 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Coba tampilkan mesin XP888A 1 jam terakhir, apakah muncul data aneh?", "label": "A1"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 antara 5 dan 12 Maret 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Pengen tahu, ada gak mesin PQ667 shift malam, apakah mengalami masalah?", "label": "A6"}
+{"text": "Pengen tahu, ada gak mesin XR101 10–20 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Adakah mesin XR101 yang tidak normal sejak awal bulan ini?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin PQ667 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A10"}
+{"text": "Ada masalah gak di mesin XR101 2 minggu terakhir?", "label": "A2"}
+{"text": "Ada keanehan mesin PQ667 3 minggu terakhir?", "label": "A13"}
+{"text": "Adakah mesin PQ667 dan XR101 yang tidak normal sejak minggu lalu?", "label": "A9"}
+{"text": "Harap ditampilkan mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Kayaknya ada deh mesin XP888A 2 hari terakhir, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Tolong cek mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A14"}
+{"text": "Tolong tampilkan mesin XR101 1 sampai 7 Januari 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Tolong cek mesin XR101 bulan ini, apakah mengalami masalah?", "label": "A4"}
+{"text": "Tolong tampilkan mesin XR101 3 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Harap ditampilkan mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A15"}
+{"text": "Tolong tampilkan mesin PQ667 kemarin, apakah muncul data aneh?", "label": "A2"}
+{"text": "Mohon periksa mesin PQ667 dan XR101 kemarin, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Ada masalah gak di mesin XP888A sejak jam 8 pagi?", "label": "A12"}
+{"text": "Pengen tahu, ada gak mesin XR101 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Apakah ada mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A15"}
+{"text": "Bagaimana kondisi mesin PQ667 dan XR101 hari ini, ada yang aneh?", "label": "A7"}
+{"text": "Tolong tampilkan mesin PQ667 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Apakah mesin XP888A dan PQ667 hari ini, apakah ada anomali?", "label": "A7"}
+{"text": "Tolong tampilkan mesin XP888A dan PQ667 2 hari terakhir, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Coba tampilkan mesin XP888A bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Tolong cek mesin XP888A dan XR101 bulan ini, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Mohon analisis mesin XP888A 1 jam terakhir, apakah muncul data aneh?", "label": "A12"}
+{"text": "Apakah mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Tolong cek mesin PQ667 2 hari terakhir, apakah mengalami masalah?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Tolong cek mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A15"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A1"}
+{"text": "Mohon analisis mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Ada masalah gak di mesin XP888A dan XR101 3 bulan terakhir?", "label": "A9"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan XR101 hari ini, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Kayaknya ada deh mesin PQ667 10–20 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Tolong dong, cekin mesin XP888A beberapa jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong tampilkan mesin PQ667 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Apakah ada mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin PQ667 dan XR101 2 hari terakhir, apakah mengalami masalah?", "label": "A7"}
+{"text": "Coba tampilkan mesin PQ667 1 jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Ada masalah gak di mesin PQ667 1 jam terakhir?", "label": "A15"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Ada masalah gak di mesin PQ667 2 bulan terakhir?", "label": "A11"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A 2 hari terakhir?", "label": "A13"}
+{"text": "Apakah mesin XP888A 2 hari terakhir, apakah ada anomali?", "label": "A2"}
+{"text": "Mohon analisis mesin XP888A dan XR101 2 hari terakhir, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Coba tampilkan mesin PQ667 antara 5 dan 12 Maret 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Harap ditampilkan mesin XP888A 3 jam terakhir, apakah muncul data aneh?", "label": "A1"}
+{"text": "Pengen tahu, ada gak mesin PQ667 minggu ini, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Tolong cek mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 beberapa jam terakhir?", "label": "A11"}
+{"text": "Apakah ada mesin XP888A dan XR101 2 hari terakhir, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Tolong tampilkan mesin XP888A dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XP888A dan PQ667 bulan ini, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Pengen tahu, ada gak mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah ada anomali mesin PQ667 3 minggu terakhir?", "label": "A15"}
+{"text": "Apakah mesin PQ667 beberapa jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Kayaknya ada deh mesin XP888A sejak jam 8 pagi, apakah ada anomali?", "label": "A14"}
+{"text": "Mohon analisis mesin XP888A dan XR101 kemarin, apakah mengalami masalah?", "label": "A7"}
+{"text": "Harap ditampilkan mesin XR101 bulan lalu, apakah ada anomali?", "label": "A4"}
+{"text": "Apakah mesin XP888A dan XR101 kemarin, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A seminggu terakhir?", "label": "A13"}
+{"text": "Apakah mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Mohon analisis mesin XR101 bulan lalu, apakah ada anomali?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XR101 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Mohon periksa mesin XR101 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Apakah mesin XR101 3 jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Harap ditampilkan mesin PQ667 beberapa jam terakhir, apakah muncul data aneh?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin XP888A dua minggu terakhir, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Coba tampilkan mesin XP888A dan PQ667 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Apakah mesin PQ667 3 jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin XP888A minggu lalu, apakah ada anomali?", "label": "A3"}
+{"text": "Mohon periksa mesin XR101 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Tolong cek mesin XP888A 1 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Harap ditampilkan mesin XR101 shift siang, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Adakah mesin XR101 yang tidak normal kemarin?", "label": "A2"}
+{"text": "Pengen tahu, ada gak mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Coba lihat deh, ada gak mesin XP888A bulan ini, apakah muncul data aneh?", "label": "A4"}
+{"text": "Tolong tampilkan mesin PQ667 minggu ini, apakah muncul data aneh?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Mohon analisis mesin PQ667 dan XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Coba tampilkan mesin XP888A sejak jam 8 pagi, apakah ada anomali?", "label": "A1"}
+{"text": "Kayaknya ada deh mesin PQ667 periode 1–15 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Tolong tampilkan mesin XP888A bulan lalu, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Apakah mesin PQ667 3 jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A10"}
+{"text": "Apakah ada anomali mesin XR101 2 hari terakhir?", "label": "A13"}
+{"text": "Mohon analisis mesin XR101 periode 1–15 Januari 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Mohon periksa mesin PQ667 periode 1–15 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A sejak awal bulan ini?", "label": "A2"}
+{"text": "Ada masalah gak di mesin XR101 sejak minggu lalu?", "label": "A12"}
+{"text": "Harap ditampilkan mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Adakah mesin XR101 yang tidak normal sejak jam 8 pagi?", "label": "A1"}
+{"text": "Tolong cek mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A13"}
+{"text": "Adakah mesin XP888A yang tidak normal beberapa jam terakhir?", "label": "A14"}
+{"text": "Ada masalah gak di mesin PQ667 dan XR101 2 minggu terakhir?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin PQ667 1 jam terakhir, apakah muncul data aneh?", "label": "A1"}
+{"text": "Tolong tampilkan mesin XP888A 2 hari terakhir, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Ada masalah gak di mesin XR101 1 jam terakhir?", "label": "A10"}
+{"text": "Adakah mesin PQ667 yang tidak normal shift siang?", "label": "A6"}
+{"text": "Tolong dong, cekin mesin PQ667 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Mohon analisis mesin XR101 3 jam terakhir, apakah mengalami masalah?", "label": "A10"}
+{"text": "Tolong dong, cekin mesin XP888A dan PQ667 bulan lalu, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Coba lihat deh, ada gak mesin XR101 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Kayaknya ada deh mesin PQ667 kemarin, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin PQ667 1 jam terakhir, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Tolong tampilkan mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin XP888A sejak jam 8 pagi, apakah mengalami masalah?", "label": "A12"}
+{"text": "Ada masalah gak di mesin XP888A 3 bulan terakhir?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Bagaimana kondisi mesin XP888A 2 minggu terakhir, ada yang aneh?", "label": "A5"}
+{"text": "Apakah mesin PQ667 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Mohon periksa mesin XP888A dan XR101 kemarin, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Coba tampilkan mesin PQ667 kemarin, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 seminggu terakhir?", "label": "A4"}
+{"text": "Apakah ada anomali mesin PQ667 3 bulan terakhir?", "label": "A1"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A 2 hari terakhir?", "label": "A5"}
+{"text": "Bagaimana kondisi mesin PQ667 3 minggu terakhir, ada yang aneh?", "label": "A3"}
+{"text": "Tolong cek mesin XP888A bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Ada masalah gak di mesin XR101 seminggu terakhir?", "label": "A2"}
+{"text": "Harap ditampilkan mesin XR101 bulan lalu, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Apakah mesin XP888A beberapa jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 minggu ini, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Ada masalah gak di mesin PQ667 1 jam terakhir?", "label": "A12"}
+{"text": "Ada masalah gak di mesin PQ667 seminggu terakhir?", "label": "A2"}
+{"text": "Apakah ada mesin PQ667 kemarin, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Bagaimana kondisi mesin XP888A dan XR101 2 bulan terakhir, ada yang aneh?", "label": "A7"}
+{"text": "Kayaknya ada deh mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A14"}
+{"text": "Apakah mesin PQ667 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A13"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar beberapa jam terakhir?", "label": "A12"}
+{"text": "Mohon analisis mesin PQ667 1 jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Tolong tampilkan mesin XR101 bulan lalu, apakah mengalami masalah?", "label": "A4"}
+{"text": "Coba tampilkan mesin XP888A dan PQ667 hari ini, apakah ada anomali?", "label": "A7"}
+{"text": "Tolong tampilkan mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Bagaimana kondisi mesin PQ667 dan XR101 2 bulan terakhir, ada yang aneh?", "label": "A8"}
+{"text": "Coba tampilkan mesin XP888A dan XR101 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Tolong cek mesin PQ667 hari ini, apakah muncul data aneh?", "label": "A2"}
+{"text": "Apakah mesin XR101 minggu lalu, apakah muncul data aneh?", "label": "A3"}
+{"text": "Coba lihat deh, ada gak mesin XP888A sejak jam 8 pagi, apakah muncul data aneh?", "label": "A14"}
+{"text": "Tolong cek mesin XP888A 1 Feb sampai 10 Feb 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar sejak minggu lalu?", "label": "A3"}
+{"text": "Tolong tampilkan mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong tampilkan mesin XP888A bulan lalu, apakah mengalami masalah?", "label": "A4"}
+{"text": "Tolong tampilkan mesin PQ667 dan XR101 minggu ini, apakah ada anomali?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin PQ667 dan XR101 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Apakah ada mesin XR101 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Coba lihat deh, ada gak mesin XR101 1 sampai 7 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Tolong tampilkan mesin XP888A bulan lalu, apakah ada anomali?", "label": "A4"}
+{"text": "Ada masalah gak di mesin PQ667 dan XR101 2 hari terakhir?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XR101 beberapa jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan XR101 bulan ini, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Coba tampilkan mesin PQ667 minggu ini, apakah mengalami masalah?", "label": "A3"}
+{"text": "Tolong cek mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Mohon analisis mesin XR101 1 jam terakhir, apakah muncul data aneh?", "label": "A1"}
+{"text": "Apakah mesin XR101 shift malam, apakah mengalami masalah?", "label": "A6"}
+{"text": "Kayaknya ada deh mesin PQ667 dan XR101 dua minggu terakhir, apakah muncul data aneh?", "label": "A8"}
+{"text": "Bagaimana kondisi mesin XP888A dan PQ667 2 hari terakhir, ada yang aneh?", "label": "A7"}
+{"text": "Coba lihat deh, ada gak mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A10"}
+{"text": "Harap ditampilkan mesin XR101 shift siang, apakah muncul data aneh?", "label": "A6"}
+{"text": "Coba lihat deh, ada gak mesin XR101 minggu lalu, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Tolong cek mesin XP888A dan XR101 bulan ini, apakah ada anomali?", "label": "A9"}
+{"text": "Mohon analisis mesin XP888A dan XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XP888A dan XR101 hari ini, apakah ada anomali?", "label": "A7"}
+{"text": "Apakah ada anomali mesin PQ667 sejak minggu lalu?", "label": "A11"}
+{"text": "Tolong tampilkan mesin PQ667 dan XR101 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Tolong cek mesin PQ667 3 jam terakhir, apakah muncul data aneh?", "label": "A13"}
+{"text": "Apakah mesin PQ667 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Tolong dong, cekin mesin XP888A sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Kayaknya ada deh mesin XP888A dan XR101 hari ini, apakah muncul data aneh?", "label": "A7"}
+{"text": "Ada keanehan mesin PQ667 2 minggu terakhir?", "label": "A14"}
+{"text": "Tolong tampilkan mesin XP888A minggu lalu, apakah muncul data aneh?", "label": "A3"}
+{"text": "Bagaimana kondisi mesin XR101 3 bulan terakhir, ada yang aneh?", "label": "A10"}
+{"text": "Mohon analisis mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Coba tampilkan mesin XR101 1 jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Apakah mesin PQ667 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A10"}
+{"text": "Ada masalah gak di mesin XP888A sejak minggu lalu?", "label": "A1"}
+{"text": "Tolong tampilkan mesin XP888A hari ini, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Coba tampilkan mesin XR101 beberapa jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Tolong tampilkan mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Coba tampilkan mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Tolong cek mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Mohon periksa mesin PQ667 1 sampai 7 Januari 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin PQ667 dan XR101 2 hari terakhir, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Apakah mesin PQ667 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Tolong cek mesin XP888A dan XR101 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Apakah mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A14"}
+{"text": "Harap ditampilkan mesin XP888A 1 sampai 7 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Tolong cek mesin XP888A hari ini, apakah mengalami masalah?", "label": "A2"}
+{"text": "Apakah mesin PQ667 3 jam terakhir, apakah muncul data aneh?", "label": "A14"}
+{"text": "Apakah ada mesin XP888A 1 sampai 7 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A 2 hari terakhir?", "label": "A12"}
+{"text": "Pengen tahu, ada gak mesin PQ667 minggu ini, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Tolong tampilkan mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 dan XR101 kemarin, apakah mengalami masalah?", "label": "A7"}
+{"text": "Bagaimana kondisi mesin PQ667 shift siang, ada yang aneh?", "label": "A6"}
+{"text": "Mohon analisis mesin PQ667 dan XR101 bulan ini, apakah ada anomali?", "label": "A9"}
+{"text": "Adakah mesin XR101 yang tidak normal 2 minggu terakhir?", "label": "A15"}
+{"text": "Apakah ada anomali mesin PQ667 dan XR101 minggu ini?", "label": "A8"}
+{"text": "Apakah mesin XP888A dan PQ667 kemarin, apakah muncul data aneh?", "label": "A7"}
+{"text": "Coba lihat deh, ada gak mesin XP888A kemarin, apakah terjadi kejanggalan?", "label": "A2"}
+{"text": "Ada keanehan mesin PQ667 2 minggu terakhir?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 kemarin, apakah ada anomali?", "label": "A7"}
+{"text": "Bagaimana kondisi mesin PQ667 sejak minggu lalu, ada yang aneh?", "label": "A13"}
+{"text": "Coba lihat deh, ada gak mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Apakah ada anomali mesin PQ667 dan XR101 2 bulan terakhir?", "label": "A9"}
+{"text": "Ada masalah gak di mesin XR101 seminggu terakhir?", "label": "A1"}
+{"text": "Ada keanehan mesin XP888A shift siang?", "label": "A6"}
+{"text": "Mohon analisis mesin PQ667 shift siang, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Apakah ada mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Coba tampilkan mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong cek mesin PQ667 shift malam, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Coba lihat deh, ada gak mesin XP888A 2 hari terakhir, apakah terjadi kejanggalan?", "label": "A2"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 bulan ini, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar 1 jam terakhir?", "label": "A13"}
+{"text": "Tolong cek mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Mohon analisis mesin XR101 shift pagi, apakah mengalami masalah?", "label": "A6"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A2"}
+{"text": "Tolong tampilkan mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Apakah mesin PQ667 dan XR101 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A8"}
+{"text": "Apakah ada mesin XR101 3 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Harap ditampilkan mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Tolong cek mesin XR101 bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Mohon analisis mesin PQ667 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Tolong cek mesin XP888A shift pagi, apakah muncul data aneh?", "label": "A6"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 minggu ini, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Apakah mesin XP888A dan XR101 menunjukkan perilaku tidak wajar bulan ini?", "label": "A9"}
+{"text": "Pengen tahu, ada gak mesin XR101 2 hari terakhir, apakah muncul data aneh?", "label": "A2"}
+{"text": "Tolong cek mesin XP888A 1 sampai 7 Januari 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Apakah mesin PQ667 minggu ini, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 sejak minggu lalu?", "label": "A2"}
+{"text": "Ada keanehan mesin XP888A hari ini?", "label": "A2"}
+{"text": "Tolong cek mesin XR101 3 jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Apakah ada mesin XP888A dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Coba tampilkan mesin PQ667 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Apakah mesin PQ667 3 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Adakah mesin XP888A yang tidak normal seminggu terakhir?", "label": "A5"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 2 hari terakhir?", "label": "A12"}
+{"text": "Pengen tahu, ada gak mesin PQ667 shift malam, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar sejak jam 8 pagi?", "label": "A10"}
+{"text": "Apakah ada mesin PQ667 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 bulan lalu, apakah mengalami masalah?", "label": "A9"}
+{"text": "Tolong tampilkan mesin XR101 shift malam, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Mohon analisis mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong cek mesin XP888A 1 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Pengen tahu, ada gak mesin XP888A shift malam, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Ada keanehan mesin XR101 minggu lalu?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin XP888A dua minggu terakhir, apakah ada anomali?", "label": "A3"}
+{"text": "Tolong tampilkan mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Bagaimana kondisi mesin XP888A beberapa jam terakhir, ada yang aneh?", "label": "A13"}
+{"text": "Coba lihat deh, ada gak mesin XP888A beberapa jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 dua minggu terakhir, apakah ada anomali?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin PQ667 1 jam terakhir, apakah muncul data aneh?", "label": "A14"}
+{"text": "Coba lihat deh, ada gak mesin XP888A kemarin, apakah muncul data aneh?", "label": "A2"}
+{"text": "Tolong cek mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A14"}
+{"text": "Ada masalah gak di mesin PQ667 3 bulan terakhir?", "label": "A1"}
+{"text": "Apakah mesin XP888A dan PQ667 dua minggu terakhir, apakah mengalami masalah?", "label": "A8"}
+{"text": "Tolong dong, cekin mesin XP888A hari ini, apakah ada anomali?", "label": "A2"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin PQ667 dan XR101 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Tolong cek mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Harap ditampilkan mesin XR101 hari ini, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Kayaknya ada deh mesin XR101 beberapa jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Apakah mesin XR101 menunjukkan perilaku tidak wajar sejak jam 8 pagi?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin XP888A dua minggu terakhir, apakah mengalami masalah?", "label": "A3"}
+{"text": "Bagaimana kondisi mesin PQ667 kemarin, ada yang aneh?", "label": "A2"}
+{"text": "Adakah mesin PQ667 yang tidak normal 3 bulan terakhir?", "label": "A5"}
+{"text": "Apakah mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin XR101 shift malam, apakah ada anomali?", "label": "A6"}
+{"text": "Tolong cek mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Mohon periksa mesin PQ667 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A15"}
+{"text": "Pengen tahu, ada gak mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A11"}
+{"text": "Bagaimana kondisi mesin XP888A dan XR101 2 hari terakhir, ada yang aneh?", "label": "A7"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 1 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Apakah ada mesin PQ667 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Tolong dong, cekin mesin XP888A shift pagi, apakah mengalami masalah?", "label": "A6"}
+{"text": "Kayaknya ada deh mesin PQ667 bulan lalu, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Apakah ada anomali mesin XP888A dan XR101 hari ini?", "label": "A7"}
+{"text": "Mohon analisis mesin PQ667 beberapa jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Apakah mesin PQ667 shift malam, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Mohon analisis mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A10"}
+{"text": "Coba lihat deh, ada gak mesin XR101 beberapa jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Ada keanehan mesin XR101 3 bulan terakhir?", "label": "A14"}
+{"text": "Ada keanehan mesin XR101 beberapa jam terakhir?", "label": "A14"}
+{"text": "Ada masalah gak di mesin PQ667 beberapa jam terakhir?", "label": "A1"}
+{"text": "Apakah ada mesin XR101 kemarin, apakah muncul data aneh?", "label": "A2"}
+{"text": "Tolong dong, cekin mesin XP888A 1 Feb sampai 10 Feb 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Coba lihat deh, ada gak mesin XP888A bulan lalu, apakah mengalami masalah?", "label": "A4"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A10"}
+{"text": "Pengen tahu, ada gak mesin PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Mohon periksa mesin PQ667 kemarin, apakah terjadi kejanggalan?", "label": "A2"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 dan XR101 kemarin?", "label": "A7"}
+{"text": "Tolong cek mesin XR101 hari ini, apakah muncul data aneh?", "label": "A2"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XR101 1 jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Kayaknya ada deh mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin XR101 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Tolong tampilkan mesin PQ667 antara 5 dan 12 Maret 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin XP888A sejak jam 8 pagi, apakah mengalami masalah?", "label": "A15"}
+{"text": "Ada masalah gak di mesin XP888A seminggu terakhir?", "label": "A2"}
+{"text": "Ada keanehan mesin PQ667 3 bulan terakhir?", "label": "A13"}
+{"text": "Mohon periksa mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Tolong dong, cekin mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A14"}
+{"text": "Pengen tahu, ada gak mesin XP888A sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A13"}
+{"text": "Apakah mesin XR101 sejak jam 8 pagi, apakah mengalami masalah?", "label": "A1"}
+{"text": "Harap ditampilkan mesin XP888A kemarin, apakah terjadi kejanggalan?", "label": "A2"}
+{"text": "Pengen tahu, ada gak mesin XR101 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan XR101 minggu ini, apakah mengalami masalah?", "label": "A8"}
+{"text": "Tolong dong, cekin mesin XP888A dan PQ667 kemarin, apakah muncul data aneh?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A15"}
+{"text": "Harap ditampilkan mesin XR101 bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Tolong cek mesin PQ667 shift pagi, apakah ada anomali?", "label": "A6"}
+{"text": "Ada masalah gak di mesin PQ667 3 minggu terakhir?", "label": "A5"}
+{"text": "Apakah mesin PQ667 dan XR101 menunjukkan perilaku tidak wajar 2 minggu terakhir?", "label": "A9"}
+{"text": "Adakah mesin XP888A dan PQ667 yang tidak normal 2 hari terakhir?", "label": "A7"}
+{"text": "Apakah ada mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Mohon analisis mesin XP888A bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Apakah mesin XP888A dan PQ667 dua minggu terakhir, apakah mengalami masalah?", "label": "A8"}
+{"text": "Tolong cek mesin XP888A kemarin, apakah mengalami masalah?", "label": "A2"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A 3 bulan terakhir?", "label": "A12"}
+{"text": "Tolong cek mesin XP888A dan PQ667 bulan lalu, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Harap ditampilkan mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A12"}
+{"text": "Harap ditampilkan mesin PQ667 shift siang, apakah mengalami masalah?", "label": "A6"}
+{"text": "Tolong dong, cekin mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah ada mesin PQ667 dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Kayaknya ada deh mesin PQ667 1 jam terakhir, apakah muncul data aneh?", "label": "A14"}
+{"text": "Coba tampilkan mesin PQ667 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Kayaknya ada deh mesin XP888A dan XR101 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Apakah ada anomali mesin XP888A bulan ini?", "label": "A4"}
+{"text": "Coba lihat deh, ada gak mesin XR101 minggu ini, apakah muncul data aneh?", "label": "A3"}
+{"text": "Mohon periksa mesin PQ667 dan XR101 hari ini, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin PQ667 dan XR101 bulan ini, apakah muncul data aneh?", "label": "A9"}
+{"text": "Mohon periksa mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Pengen tahu, ada gak mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Apakah mesin XP888A dan PQ667 bulan lalu, apakah mengalami masalah?", "label": "A9"}
+{"text": "Tolong dong, cekin mesin XP888A dan XR101 minggu ini, apakah mengalami masalah?", "label": "A8"}
+{"text": "Tolong tampilkan mesin XR101 periode 1–15 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Apakah ada mesin XR101 1 Feb sampai 10 Feb 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Apakah ada mesin XR101 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Pengen tahu, ada gak mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Coba tampilkan mesin PQ667 shift malam, apakah mengalami masalah?", "label": "A6"}
+{"text": "Kayaknya ada deh mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Apakah ada anomali mesin XP888A shift siang?", "label": "A6"}
+{"text": "Tolong cek mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A sejak jam 8 pagi?", "label": "A11"}
+{"text": "Apakah mesin PQ667 beberapa jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin PQ667 dan XR101 dua minggu terakhir, apakah mengalami masalah?", "label": "A8"}
+{"text": "Tolong cek mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Mohon analisis mesin PQ667 dan XR101 kemarin, apakah muncul data aneh?", "label": "A7"}
+{"text": "Apakah ada mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A14"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan PQ667 minggu ini, apakah mengalami masalah?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Ada keanehan mesin XP888A dan PQ667 3 bulan terakhir?", "label": "A9"}
+{"text": "Coba lihat deh, ada gak mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin XP888A 1 Feb sampai 10 Feb 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Kayaknya ada deh mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Harap ditampilkan mesin XR101 3 jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Apakah ada mesin XP888A dan PQ667 kemarin, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Harap ditampilkan mesin XR101 hari ini, apakah ada anomali?", "label": "A2"}
+{"text": "Mohon periksa mesin XR101 shift malam, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 2 bulan terakhir?", "label": "A4"}
+{"text": "Apakah ada mesin XP888A 3 jam terakhir, apakah muncul data aneh?", "label": "A13"}
+{"text": "Coba lihat deh, ada gak mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Harap ditampilkan mesin XR101 1 jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 seminggu terakhir?", "label": "A15"}
+{"text": "Apakah ada kejanggalan pada mesin PQ667 sejak jam 8 pagi?", "label": "A1"}
+{"text": "Apakah mesin PQ667 minggu ini, apakah ada anomali?", "label": "A3"}
+{"text": "Tolong dong, cekin mesin XP888A 2 hari terakhir, apakah mengalami masalah?", "label": "A2"}
+{"text": "Coba tampilkan mesin XR101 shift siang, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Coba tampilkan mesin XR101 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Apakah mesin PQ667 kemarin, apakah mengalami masalah?", "label": "A2"}
+{"text": "Ada masalah gak di mesin PQ667 2 bulan terakhir?", "label": "A11"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 minggu lalu, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Ada masalah gak di mesin XP888A sejak minggu lalu?", "label": "A3"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 sejak minggu lalu?", "label": "A11"}
+{"text": "Bagaimana kondisi mesin PQ667 2 bulan terakhir, ada yang aneh?", "label": "A4"}
+{"text": "Coba lihat deh, ada gak mesin XP888A sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A10"}
+{"text": "Kayaknya ada deh mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Tolong dong, cekin mesin XR101 bulan ini, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Apakah ada anomali mesin PQ667 dan XR101 3 bulan terakhir?", "label": "A7"}
+{"text": "Tolong tampilkan mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Ada keanehan mesin XR101 sejak awal bulan ini?", "label": "A1"}
+{"text": "Mohon periksa mesin XP888A shift pagi, apakah muncul data aneh?", "label": "A6"}
+{"text": "Coba tampilkan mesin XR101 shift siang, apakah terjadi kejanggalan?", "label": "A6"}
+{"text": "Coba tampilkan mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A10"}
+{"text": "Tolong dong, cekin mesin XP888A sejak jam 8 pagi, apakah muncul data aneh?", "label": "A14"}
+{"text": "Kayaknya ada deh mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Mohon analisis mesin PQ667 bulan ini, apakah muncul data aneh?", "label": "A4"}
+{"text": "Mohon periksa mesin XP888A dan PQ667 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Tolong dong, cekin mesin XP888A dua minggu terakhir, apakah muncul data aneh?", "label": "A3"}
+{"text": "Kayaknya ada deh mesin XP888A 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Adakah mesin PQ667 dan XR101 yang tidak normal 3 bulan terakhir?", "label": "A9"}
+{"text": "Harap ditampilkan mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Tolong dong, cekin mesin PQ667 3 jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Ada keanehan mesin XP888A 2 bulan terakhir?", "label": "A12"}
+{"text": "Apakah ada anomali mesin XP888A shift malam?", "label": "A6"}
+{"text": "Tolong tampilkan mesin PQ667 dan XR101 minggu ini, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Kayaknya ada deh mesin PQ667 10–20 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 sejak jam 8 pagi?", "label": "A11"}
+{"text": "Tolong cek mesin PQ667 periode 1–15 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Ada keanehan mesin XP888A dan XR101 sejak minggu lalu?", "label": "A8"}
+{"text": "Apakah ada mesin PQ667 dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Coba tampilkan mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin XP888A sejak jam 8 pagi, apakah ada anomali?", "label": "A11"}
+{"text": "Mohon analisis mesin XR101 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Apakah mesin XP888A dan XR101 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Apakah ada mesin PQ667 dua minggu terakhir, apakah mengalami masalah?", "label": "A3"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 sejak minggu lalu?", "label": "A4"}
+{"text": "Mohon periksa mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Apakah ada kejanggalan pada mesin XP888A 2 bulan terakhir?", "label": "A4"}
+{"text": "Tolong dong, cekin mesin XR101 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Apakah ada mesin XP888A dan PQ667 2 hari terakhir, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Ada masalah gak di mesin XP888A 3 minggu terakhir?", "label": "A12"}
+{"text": "Apakah mesin XP888A dan XR101 menunjukkan perilaku tidak wajar seminggu terakhir?", "label": "A9"}
+{"text": "Apakah ada mesin XP888A dan PQ667 2 hari terakhir, apakah muncul data aneh?", "label": "A7"}
+{"text": "Tolong cek mesin XR101 periode 1–15 Januari 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Pengen tahu, ada gak mesin PQ667 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 shift malam, apakah muncul data aneh?", "label": "A6"}
+{"text": "Pengen tahu, ada gak mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A12"}
+{"text": "Ada keanehan mesin PQ667 sejak minggu lalu?", "label": "A3"}
+{"text": "Mohon analisis mesin PQ667 beberapa jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Tolong tampilkan mesin XP888A dan XR101 dua minggu terakhir, apakah ada anomali?", "label": "A8"}
+{"text": "Ada keanehan mesin XP888A dan PQ667 2 hari terakhir?", "label": "A8"}
+{"text": "Mohon periksa mesin PQ667 bulan lalu, apakah muncul data aneh?", "label": "A4"}
+{"text": "Harap ditampilkan mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A14"}
+{"text": "Apakah ada anomali mesin XR101 2 bulan terakhir?", "label": "A4"}
+{"text": "Bagaimana kondisi mesin PQ667 dan XR101 bulan lalu, ada yang aneh?", "label": "A9"}
+{"text": "Apakah mesin XR101 1 jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Adakah mesin PQ667 yang tidak normal beberapa jam terakhir?", "label": "A1"}
+{"text": "Tolong cek mesin PQ667 dan XR101 minggu lalu, apakah mengalami masalah?", "label": "A8"}
+{"text": "Ada keanehan mesin PQ667 beberapa jam terakhir?", "label": "A1"}
+{"text": "Tolong tampilkan mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A11"}
+{"text": "Coba tampilkan mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Coba lihat deh, ada gak mesin XR101 2 hari terakhir, apakah terjadi kejanggalan?", "label": "A2"}
+{"text": "Kayaknya ada deh mesin PQ667 shift siang, apakah mengalami masalah?", "label": "A6"}
+{"text": "Mohon periksa mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Adakah mesin XR101 yang tidak normal sejak awal bulan ini?", "label": "A3"}
+{"text": "Adakah mesin XR101 yang tidak normal 3 bulan terakhir?", "label": "A13"}
+{"text": "Mohon analisis mesin XR101 periode 1–15 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Tolong dong, cekin mesin PQ667 bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Ada masalah gak di mesin PQ667 shift siang?", "label": "A6"}
+{"text": "Mohon analisis mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Coba tampilkan mesin PQ667 3 jam terakhir, apakah ada anomali?", "label": "A15"}
+{"text": "Mohon periksa mesin PQ667 dan XR101 minggu lalu, apakah muncul data aneh?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin XR101 1 jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Apakah ada mesin PQ667 dan XR101 dua minggu terakhir, apakah mengalami masalah?", "label": "A8"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 antara 5 dan 12 Maret 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Tolong tampilkan mesin XR101 kemarin, apakah ada anomali?", "label": "A2"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 1 jam terakhir, apakah mengalami masalah?", "label": "A12"}
+{"text": "Mohon periksa mesin PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XR101 sejak jam 8 pagi, apakah muncul data aneh?", "label": "A11"}
+{"text": "Apakah mesin PQ667 3 jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Ada masalah gak di mesin XR101 3 minggu terakhir?", "label": "A3"}
+{"text": "Tolong tampilkan mesin XP888A 3 jam terakhir, apakah ada anomali?", "label": "A12"}
+{"text": "Mohon analisis mesin XP888A dan PQ667 kemarin, apakah terjadi kejanggalan?", "label": "A7"}
+{"text": "Apakah mesin XR101 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Harap ditampilkan mesin XP888A dan PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Mohon analisis mesin PQ667 minggu lalu, apakah muncul data aneh?", "label": "A3"}
+{"text": "Coba tampilkan mesin PQ667 3 jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Apakah ada anomali mesin XP888A dan XR101 2 minggu terakhir?", "label": "A7"}
+{"text": "Mohon periksa mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A10"}
+{"text": "Ada keanehan mesin XP888A 3 bulan terakhir?", "label": "A5"}
+{"text": "Apakah ada anomali mesin PQ667 sejak minggu lalu?", "label": "A10"}
+{"text": "Kayaknya ada deh mesin XP888A 10–20 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Harap ditampilkan mesin PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Mohon analisis mesin PQ667 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 dan XR101 hari ini, apakah terlihat tidak normal?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin PQ667 3 jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Coba tampilkan mesin XP888A dan PQ667 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin XP888A dan PQ667 dua minggu terakhir, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Coba lihat deh, ada gak mesin PQ667 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Tolong cek mesin PQ667 antara 5 dan 12 Maret 2025, apakah terlihat tidak normal?", "label": "A5"}
+{"text": "Tolong tampilkan mesin XR101 sejak jam 8 pagi, apakah ada anomali?", "label": "A12"}
+{"text": "Tolong tampilkan mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Tolong tampilkan mesin PQ667 dan XR101 bulan lalu, apakah ada anomali?", "label": "A9"}
+{"text": "Kayaknya ada deh mesin XP888A bulan lalu, apakah mengalami masalah?", "label": "A4"}
+{"text": "Mohon periksa mesin PQ667 3 jam terakhir, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Kayaknya ada deh mesin XP888A 2 hari terakhir, apakah mengalami masalah?", "label": "A2"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan XR101 minggu ini, apakah ada anomali?", "label": "A8"}
+{"text": "Pengen tahu, ada gak mesin XR101 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A1"}
+{"text": "Mohon periksa mesin XP888A 1 jam terakhir, apakah ada anomali?", "label": "A11"}
+{"text": "Bagaimana kondisi mesin XP888A 3 bulan terakhir, ada yang aneh?", "label": "A10"}
+{"text": "Coba tampilkan mesin PQ667 periode 1–15 Januari 2025, apakah ada anomali?", "label": "A5"}
+{"text": "Coba tampilkan mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Mohon analisis mesin XP888A shift siang, apakah terlihat tidak normal?", "label": "A6"}
+{"text": "Harap ditampilkan mesin XP888A shift malam, apakah ada anomali?", "label": "A6"}
+{"text": "Ada keanehan mesin XR101 1 jam terakhir?", "label": "A15"}
+{"text": "Apakah mesin XP888A 1 jam terakhir, apakah mengalami masalah?", "label": "A11"}
+{"text": "Apakah mesin PQ667 dan XR101 2 hari terakhir, apakah ada anomali?", "label": "A7"}
+{"text": "Apakah ada mesin PQ667 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A13"}
+{"text": "Bagaimana kondisi mesin XR101 3 jam terakhir, ada yang aneh?", "label": "A13"}
+{"text": "Tolong cek mesin XR101 10–20 Januari 2025, apakah terjadi kejanggalan?", "label": "A5"}
+{"text": "Pengen tahu, ada gak mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Mohon periksa mesin XR101 beberapa jam terakhir, apakah ada anomali?", "label": "A10"}
+{"text": "Tolong dong, cekin mesin XP888A dan XR101 minggu lalu, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Tolong tampilkan mesin XP888A dan XR101 2 hari terakhir, apakah muncul data aneh?", "label": "A7"}
+{"text": "Mohon analisis mesin XR101 bulan ini, apakah ada anomali?", "label": "A4"}
+{"text": "Ada keanehan mesin XP888A shift pagi?", "label": "A6"}
+{"text": "Mohon periksa mesin XR101 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A3"}
+{"text": "Mohon periksa mesin XP888A bulan ini, apakah mengalami masalah?", "label": "A4"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar 3 minggu terakhir?", "label": "A10"}
+{"text": "Tolong cek mesin XR101 shift malam, apakah muncul data aneh?", "label": "A6"}
+{"text": "Ada masalah gak di mesin XP888A shift pagi?", "label": "A6"}
+{"text": "Coba tampilkan mesin PQ667 10–20 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Coba tampilkan mesin XP888A sejak jam 8 pagi, apakah mengalami masalah?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin XP888A dan PQ667 bulan lalu, apakah terlihat tidak normal?", "label": "A9"}
+{"text": "Apakah mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Pengen tahu, ada gak mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A1"}
+{"text": "Harap ditampilkan mesin XR101 bulan lalu, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Tolong dong, cekin mesin PQ667 sejak jam 8 pagi, apakah ada anomali?", "label": "A15"}
+{"text": "Mohon analisis mesin XP888A 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Tolong dong, cekin mesin XP888A 3 jam terakhir, apakah mengalami masalah?", "label": "A10"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 3 minggu terakhir?", "label": "A15"}
+{"text": "Apakah mesin XP888A dan XR101 minggu lalu, apakah muncul data aneh?", "label": "A8"}
+{"text": "Adakah mesin XP888A yang tidak normal 2 bulan terakhir?", "label": "A1"}
+{"text": "Apakah ada mesin XP888A 1 jam terakhir, apakah muncul data aneh?", "label": "A15"}
+{"text": "Harap ditampilkan mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah ada mesin XR101 1 jam terakhir, apakah mengalami masalah?", "label": "A15"}
+{"text": "Tolong tampilkan mesin XP888A beberapa jam terakhir, apakah mengalami masalah?", "label": "A13"}
+{"text": "Pengen tahu, ada gak mesin XP888A sejak jam 8 pagi, apakah muncul data aneh?", "label": "A10"}
+{"text": "Apakah ada mesin XP888A kemarin, apakah terlihat tidak normal?", "label": "A2"}
+{"text": "Tolong cek mesin XP888A 1 jam terakhir, apakah muncul data aneh?", "label": "A10"}
+{"text": "Pengen tahu, ada gak mesin XP888A 3 jam terakhir, apakah muncul data aneh?", "label": "A13"}
+{"text": "Tolong tampilkan mesin XP888A dan PQ667 bulan lalu, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Harap ditampilkan mesin XP888A kemarin, apakah muncul data aneh?", "label": "A2"}
+{"text": "Apakah ada mesin XP888A dan PQ667 minggu lalu, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Coba lihat deh, ada gak mesin XP888A 1 Feb sampai 10 Feb 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Coba tampilkan mesin XP888A shift malam, apakah ada anomali?", "label": "A6"}
+{"text": "Mohon analisis mesin PQ667 beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Apakah mesin XP888A 10–20 Januari 2025, apakah muncul data aneh?", "label": "A5"}
+{"text": "Pengen tahu, ada gak mesin XP888A minggu ini, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Pengen tahu, ada gak mesin PQ667 dan XR101 bulan lalu, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Apakah ada anomali mesin XP888A beberapa jam terakhir?", "label": "A10"}
+{"text": "Tolong cek mesin XP888A beberapa jam terakhir, apakah ada anomali?", "label": "A1"}
+{"text": "Harap ditampilkan mesin XR101 minggu lalu, apakah terjadi kejanggalan?", "label": "A3"}
+{"text": "Tolong tampilkan mesin XP888A dan PQ667 bulan ini, apakah mengalami masalah?", "label": "A9"}
+{"text": "Apakah ada mesin PQ667 1 jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Tolong tampilkan mesin XR101 2 hari terakhir, apakah ada anomali?", "label": "A2"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan PQ667 minggu ini, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan PQ667 dua minggu terakhir, apakah terlihat tidak normal?", "label": "A8"}
+{"text": "Mohon periksa mesin XP888A 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Kayaknya ada deh mesin XP888A 1 Feb sampai 10 Feb 2025, apakah mengalami masalah?", "label": "A5"}
+{"text": "Ada keanehan mesin XR101 sejak awal bulan ini?", "label": "A11"}
+{"text": "Apakah ada anomali mesin PQ667 beberapa jam terakhir?", "label": "A10"}
+{"text": "Mohon periksa mesin PQ667 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Harap ditampilkan mesin XR101 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Coba tampilkan mesin PQ667 beberapa jam terakhir, apakah ada anomali?", "label": "A13"}
+{"text": "Apakah mesin XP888A menunjukkan perilaku tidak wajar 1 jam terakhir?", "label": "A10"}
+{"text": "Pengen tahu, ada gak mesin XR101 hari ini, apakah terjadi kejanggalan?", "label": "A2"}
+{"text": "Mohon analisis mesin XP888A minggu lalu, apakah mengalami masalah?", "label": "A3"}
+{"text": "Apakah ada kejanggalan pada mesin XR101 3 jam terakhir?", "label": "A13"}
+{"text": "Ada keanehan mesin PQ667 dan XR101 3 bulan terakhir?", "label": "A9"}
+{"text": "Apakah ada mesin XP888A dan PQ667 minggu lalu, apakah muncul data aneh?", "label": "A8"}
+{"text": "Bagaimana kondisi mesin PQ667 3 bulan terakhir, ada yang aneh?", "label": "A14"}
+{"text": "Mohon analisis mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A15"}
+{"text": "Coba tampilkan mesin PQ667 dan XR101 2 hari terakhir, apakah muncul data aneh?", "label": "A7"}
+{"text": "Pengen tahu, ada gak mesin PQ667 bulan ini, apakah terlihat tidak normal?", "label": "A4"}
+{"text": "Tolong dong, cekin mesin XP888A dan PQ667 minggu ini, apakah muncul data aneh?", "label": "A8"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 kemarin, apakah ada anomali?", "label": "A7"}
+{"text": "Coba lihat deh, ada gak mesin XP888A dan PQ667 hari ini, apakah mengalami masalah?", "label": "A7"}
+{"text": "Kayaknya ada deh mesin PQ667 dan XR101 bulan ini, apakah muncul data aneh?", "label": "A9"}
+{"text": "Coba lihat deh, ada gak mesin XR101 beberapa jam terakhir, apakah mengalami masalah?", "label": "A14"}
+{"text": "Kayaknya ada deh mesin PQ667 shift siang, apakah ada anomali?", "label": "A6"}
+{"text": "Tolong tampilkan mesin XP888A sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A14"}
+{"text": "Bagaimana kondisi mesin XR101 2 bulan terakhir, ada yang aneh?", "label": "A4"}
+{"text": "Kayaknya ada deh mesin XP888A dan PQ667 bulan lalu, apakah terjadi kejanggalan?", "label": "A9"}
+{"text": "Pengen tahu, ada gak mesin PQ667 sejak jam 8 pagi, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Coba lihat deh, ada gak mesin XP888A beberapa jam terakhir, apakah terlihat tidak normal?", "label": "A13"}
+{"text": "Harap ditampilkan mesin PQ667 sejak jam 8 pagi, apakah terlihat tidak normal?", "label": "A12"}
+{"text": "Tolong cek mesin XR101 minggu lalu, apakah mengalami masalah?", "label": "A3"}
+{"text": "Pengen tahu, ada gak mesin XR101 minggu ini, apakah muncul data aneh?", "label": "A3"}
+{"text": "Mohon periksa mesin XP888A beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Apakah mesin XP888A dan PQ667 bulan lalu, apakah muncul data aneh?", "label": "A9"}
+{"text": "Apakah ada anomali mesin XR101 sejak jam 8 pagi?", "label": "A12"}
+{"text": "Apakah mesin XR101 1 jam terakhir, apakah terjadi kejanggalan?", "label": "A14"}
+{"text": "Tolong dong, cekin mesin PQ667 dan XR101 minggu ini, apakah terjadi kejanggalan?", "label": "A8"}
+{"text": "Coba lihat deh, ada gak mesin XP888A bulan ini, apakah mengalami masalah?", "label": "A4"}
+{"text": "Mohon analisis mesin XP888A dan XR101 dua minggu terakhir, apakah muncul data aneh?", "label": "A8"}
+{"text": "Tolong tampilkan mesin XR101 beberapa jam terakhir, apakah terjadi kejanggalan?", "label": "A1"}
+{"text": "Tolong cek mesin XP888A minggu lalu, apakah ada anomali?", "label": "A3"}
+{"text": "Harap ditampilkan mesin XP888A 3 jam terakhir, apakah terjadi kejanggalan?", "label": "A12"}
+{"text": "Harap ditampilkan mesin XP888A minggu ini, apakah mengalami masalah?", "label": "A3"}
+{"text": "Harap ditampilkan mesin XR101 kemarin, apakah ada anomali?", "label": "A2"}
+{"text": "Harap ditampilkan mesin XP888A dan XR101 bulan ini, apakah ada anomali?", "label": "A9"}
+{"text": "Apakah mesin XP888A bulan lalu, apakah terjadi kejanggalan?", "label": "A4"}
+{"text": "Tolong cek mesin XP888A sejak jam 8 pagi, apakah mengalami masalah?", "label": "A12"}

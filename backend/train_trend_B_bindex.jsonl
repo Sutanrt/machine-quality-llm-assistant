@@ -1,0 +1,1080 @@
+{"text": "Kapan titik puncak mesin PQ667 pada 1 jam terakhir?", "label": "b1"}
+{"text": "Cek ringkasan rata-rata semua mesin tahun lalu.", "label": "b17"}
+{"text": "Mohon tampilkan ringkasan rata-rata mesin PQ667 3 jam terakhir.", "label": "b1"}
+{"text": "Cek tren mesin XP888A pada kemarin, arahnya kemana?", "label": "b2"}
+{"text": "Coba lihat statistik min dan max semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Tampilkan ringkasan rata-rata mesin XP888A dan XR101 semua waktu.", "label": "b12"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin XR101 untuk seluruh periode.", "label": "b6"}
+{"text": "Cek ringkasan rata-rata, min, dan max semua mesin semua waktu.", "label": "b18"}
+{"text": "Bagaimana tren mesin PQ667 2 minggu terakhir, cenderung naik atau turun?", "label": "b3"}
+{"text": "Apakah mesin PQ667 dan XR101 kemarin menunjukkan pola yang konsisten?", "label": "b8"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max semua mesin pada 2 hari terakhir.", "label": "b14"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada kemarin?", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan PQ667 untuk 2 bulan terakhir.", "label": "b10"}
+{"text": "Tolong dong tampilkan ringkasan min dan max mesin XP888A dan PQ667 bulan lalu.", "label": "b10"}
+{"text": "Harap tampilkan ringkasan rata-rata mesin XP888A dan XR101 3 jam terakhir.", "label": "b7"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk jam 08–12.", "label": "b13"}
+{"text": "Tampilkan ringkasan mesin XP888A tahun ini: rata-rata dan puncak nilai.", "label": "b5"}
+{"text": "Tolong tampilkan nilai terendah mesin XR101 untuk dari awal pencatatan.", "label": "b6"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk dari awal pencatatan.", "label": "b12"}
+{"text": "Tampilkan ringkasan rata-rata mesin XP888A hari ini.", "label": "b2"}
+{"text": "Bagaimana tren mesin PQ667 dan XR101 tahun ini, cenderung naik atau turun?", "label": "b11"}
+{"text": "Apakah semua mesin minggu ini menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A pada jam 08–12.", "label": "b1"}
+{"text": "Bisa tampilkan gak ringkasan min dan max mesin XP888A dan PQ667 jam 08–12.", "label": "b7"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 beberapa jam terakhir (naik/turun/stabil).", "label": "b7"}
+{"text": "Tampilkan ringkasan rata-rata, min, dan max semua mesin minggu ini.", "label": "b15"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin pada kemarin.", "label": "b14"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin PQ667 dan XR101 untuk tahun lalu.", "label": "b11"}
+{"text": "Pengen tahu ringkasan min dan max semua mesin jam 08–12.", "label": "b13"}
+{"text": "Cek tren mesin XP888A dan XR101 pada jam 08–12, arahnya kemana?", "label": "b7"}
+{"text": "Tampilkan ringkasan mesin XP888A dan PQ667 2 bulan terakhir: rata-rata dan puncak nilai.", "label": "b10"}
+{"text": "Adakah statistik rata-rata mesin PQ667 dan XR101 untuk minggu lalu.", "label": "b9"}
+{"text": "Pengen tahu ringkasan min dan max mesin PQ667 dan XR101 tahun ini.", "label": "b11"}
+{"text": "Cek ringkasan min dan max semua mesin jam 08–12.", "label": "b13"}
+{"text": "Tampilkan statistik min dan max semua mesin untuk dari awal pencatatan.", "label": "b18"}
+{"text": "Ringkas pergerakan mesin XP888A tahun ini (naik/turun/stabil).", "label": "b5"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk bulan lalu.", "label": "b10"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 seluruh periode: rata-rata dan puncak nilai.", "label": "b12"}
+{"text": "Tolong dong tampilkan statistik min dan max mesin PQ667 untuk bulan lalu.", "label": "b4"}
+{"text": "Kapan titik puncak mesin XP888A dan XR101 pada minggu ini?", "label": "b9"}
+{"text": "Coba lihat statistik rata-rata mesin XP888A dan PQ667 untuk kemarin.", "label": "b8"}
+{"text": "Tampilkan ringkasan semua mesin minggu lalu: rata-rata dan puncak nilai.", "label": "b15"}
+{"text": "Tolong ringkas statistik min dan max semua mesin pada tahun lalu.", "label": "b17"}
+{"text": "Adakah fluktuasi besar pada semua mesin 2 bulan terakhir?", "label": "b16"}
+{"text": "Apakah mesin XP888A dan PQ667 1 jam terakhir menunjukkan pola yang konsisten?", "label": "b7"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin PQ667 2 minggu terakhir.", "label": "b3"}
+{"text": "Coba lihat ringkasan min dan max mesin XP888A semua waktu.", "label": "b6"}
+{"text": "Apakah mesin PQ667 dan XR101 bulan ini menunjukkan pola yang konsisten?", "label": "b10"}
+{"text": "Mohon periksa statistik rata-rata mesin PQ667 untuk 2 hari terakhir.", "label": "b2"}
+{"text": "Mohon periksa statistik rata-rata mesin XP888A dan PQ667 untuk jam 08–12.", "label": "b7"}
+{"text": "Tampilkan statistik min dan max mesin XP888A dan PQ667 untuk bulan ini.", "label": "b10"}
+{"text": "Apakah ringkasan min dan max mesin PQ667 hari ini.", "label": "b2"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk bulan ini.", "label": "b10"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 bulan lalu?", "label": "b10"}
+{"text": "Apakah mesin PQ667 jam 08–12 menunjukkan pola yang konsisten?", "label": "b1"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A untuk bulan ini.", "label": "b4"}
+{"text": "Coba lihat ringkasan min dan max semua mesin semua waktu.", "label": "b18"}
+{"text": "Tolong ringkas statistik min dan max semua mesin pada dari awal pencatatan.", "label": "b18"}
+{"text": "Apakah semua mesin semua waktu menunjukkan pola yang konsisten?", "label": "b18"}
+{"text": "Ringkas pergerakan mesin XR101 seluruh periode (naik/turun/stabil).", "label": "b6"}
+{"text": "Harap tampilkan statistik min dan max semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada kemarin, arahnya kemana?", "label": "b8"}
+{"text": "Apakah mesin PQ667 seluruh periode menunjukkan pola yang konsisten?", "label": "b6"}
+{"text": "Tolong cek ringkasan min dan max semua mesin 3 jam terakhir.", "label": "b13"}
+{"text": "Tampilkan statistik rata-rata, min, dan max semua mesin untuk 2 bulan terakhir.", "label": "b16"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin PQ667 untuk 2 minggu terakhir.", "label": "b3"}
+{"text": "Tampilkan ringkasan mesin XP888A bulan lalu: rata-rata dan puncak nilai.", "label": "b4"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin XP888A dan XR101 untuk 1 jam terakhir.", "label": "b7"}
+{"text": "Tolong cek statistik rata-rata mesin XP888A dan XR101 pada minggu lalu.", "label": "b9"}
+{"text": "Ringkas statistik min dan max semua mesin untuk 2 minggu terakhir.", "label": "b15"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 1 jam terakhir (naik/turun/stabil).", "label": "b7"}
+{"text": "Adakah ringkasan rata-rata semua mesin minggu ini.", "label": "b15"}
+{"text": "Coba lihat ringkasan rata-rata mesin PQ667 dan XR101 tahun ini.", "label": "b11"}
+{"text": "Tolong cek statistik rata-rata mesin PQ667 untuk 2 bulan terakhir.", "label": "b4"}
+{"text": "Tampilkan ringkasan semua mesin tahun lalu: rata-rata dan puncak nilai.", "label": "b17"}
+{"text": "Ringkas pergerakan semua mesin 2 bulan terakhir (naik/turun/stabil).", "label": "b16"}
+{"text": "Tolong cek statistik min dan max semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Apakah statistik min dan max mesin XP888A dan XR101 pada seluruh periode.", "label": "b12"}
+{"text": "Tampilkan ringkasan semua mesin dari awal pencatatan: rata-rata dan puncak nilai.", "label": "b18"}
+{"text": "Bisa tampilkan gak statistik rata-rata mesin XP888A dan XR101 untuk hari ini.", "label": "b8"}
+{"text": "Apakah semua mesin pada 3 jam terakhir terlihat stabil?", "label": "b13"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk 1 jam terakhir.", "label": "b13"}
+{"text": "Apakah mesin XP888A tahun ini menunjukkan pola yang konsisten?", "label": "b5"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan XR101 bulan ini?", "label": "b10"}
+{"text": "Cek tren mesin XP888A dan PQ667 pada seluruh periode, arahnya kemana?", "label": "b12"}
+{"text": "Tolong dong tampilkan statistik rata-rata mesin PQ667 dan XR101 pada hari ini.", "label": "b8"}
+{"text": "Apakah statistik rata-rata mesin PQ667 dan XR101 untuk jam 08–12.", "label": "b7"}
+{"text": "Cek statistik rata-rata mesin XR101 pada tahun lalu.", "label": "b5"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XP888A pada semua waktu.", "label": "b6"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada tahun ini?", "label": "b11"}
+{"text": "Apakah statistik min dan max semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada 2 hari terakhir?", "label": "b8"}
+{"text": "Apakah mesin PQ667 2 bulan terakhir menunjukkan pola yang konsisten?", "label": "b4"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata, min, dan max semua mesin tahun ini.", "label": "b17"}
+{"text": "Cek ringkasan rata-rata mesin XP888A dan XR101 tahun lalu.", "label": "b11"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan XR101 untuk seluruh periode.", "label": "b12"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin PQ667 minggu ini.", "label": "b3"}
+{"text": "Mohon periksa statistik min dan max mesin PQ667 dan XR101 pada kemarin.", "label": "b8"}
+{"text": "Harap tampilkan statistik rata-rata mesin XR101 untuk bulan lalu.", "label": "b4"}
+{"text": "Cek tren semua mesin pada tahun ini, arahnya kemana?", "label": "b17"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Apakah mesin XP888A seluruh periode menunjukkan pola yang konsisten?", "label": "b6"}
+{"text": "Cek statistik rata-rata mesin XR101 pada 2 minggu terakhir.", "label": "b3"}
+{"text": "Mohon periksa ringkasan rata-rata semua mesin seluruh periode.", "label": "b18"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max semua mesin pada bulan lalu.", "label": "b16"}
+{"text": "Tolong ringkas statistik min dan max semua mesin untuk 2 hari terakhir.", "label": "b14"}
+{"text": "Apakah mesin PQ667 2 minggu terakhir menunjukkan pola yang konsisten?", "label": "b3"}
+{"text": "Apakah semua mesin pada tahun lalu terlihat stabil?", "label": "b17"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin XP888A 3 jam terakhir.", "label": "b1"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin XP888A dan XR101 2 bulan terakhir.", "label": "b10"}
+{"text": "Apakah mesin XP888A pada kemarin terlihat stabil?", "label": "b2"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XP888A pada tahun lalu.", "label": "b5"}
+{"text": "Cek tren mesin XP888A dan XR101 pada bulan lalu, arahnya kemana?", "label": "b10"}
+{"text": "Bisa tampilkan gak statistik rata-rata mesin XP888A pada tahun ini.", "label": "b5"}
+{"text": "Mohon tampilkan ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 bulan lalu.", "label": "b10"}
+{"text": "Tampilkan statistik rata-rata, min, dan max semua mesin untuk tahun ini.", "label": "b17"}
+{"text": "Apakah mesin XP888A dan XR101 pada minggu ini terlihat stabil?", "label": "b9"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin PQ667 untuk hari ini.", "label": "b2"}
+{"text": "Tolong dong tampilkan statistik min dan max mesin PQ667 untuk tahun ini.", "label": "b5"}
+{"text": "Ringkas pergerakan mesin XR101 hari ini (naik/turun/stabil).", "label": "b2"}
+{"text": "Apakah semua mesin pada minggu lalu terlihat stabil?", "label": "b15"}
+{"text": "Kapan titik puncak semua mesin pada 2 hari terakhir?", "label": "b14"}
+{"text": "Apakah mesin XP888A dan PQ667 jam 08–12 menunjukkan pola yang konsisten?", "label": "b7"}
+{"text": "Adakah statistik rata-rata, min, dan max semua mesin untuk tahun lalu.", "label": "b17"}
+{"text": "Tolong cek statistik rata-rata mesin XR101 untuk jam 08–12.", "label": "b1"}
+{"text": "Apakah mesin XP888A pada minggu ini terlihat stabil?", "label": "b3"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Ringkas ringkasan min dan max mesin PQ667 dan XR101 beberapa jam terakhir.", "label": "b7"}
+{"text": "Mohon periksa statistik min dan max mesin XP888A pada hari ini.", "label": "b2"}
+{"text": "Tolong cek ringkasan min dan max mesin XP888A semua waktu.", "label": "b6"}
+{"text": "Tampilkan statistik rata-rata mesin PQ667 pada minggu lalu.", "label": "b3"}
+{"text": "Tolong cek statistik rata-rata mesin XP888A dan XR101 untuk tahun lalu.", "label": "b11"}
+{"text": "Bagaimana tren mesin PQ667 2 bulan terakhir, cenderung naik atau turun?", "label": "b4"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin PQ667 dan XR101 untuk seluruh periode.", "label": "b12"}
+{"text": "Apakah statistik rata-rata mesin XP888A pada seluruh periode.", "label": "b6"}
+{"text": "Bagaimana tren semua mesin bulan ini, cenderung naik atau turun?", "label": "b16"}
+{"text": "Tampilkan statistik rata-rata semua mesin pada minggu lalu.", "label": "b15"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XP888A dan XR101 pada 2 minggu terakhir.", "label": "b9"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XR101 untuk seluruh periode.", "label": "b6"}
+{"text": "Apakah semua mesin pada bulan ini terlihat stabil?", "label": "b16"}
+{"text": "Tampilkan ringkasan mesin XP888A semua waktu: rata-rata dan puncak nilai.", "label": "b6"}
+{"text": "Harap tampilkan statistik rata-rata mesin PQ667 untuk bulan ini.", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada mesin XR101 kemarin?", "label": "b2"}
+{"text": "Apakah statistik min dan max mesin PQ667 dan XR101 pada bulan lalu.", "label": "b10"}
+{"text": "Apakah semua mesin pada bulan ini terlihat stabil?", "label": "b16"}
+{"text": "Kapan titik puncak mesin XP888A pada tahun ini?", "label": "b5"}
+{"text": "Ringkas ringkasan rata-rata mesin XP888A dan PQ667 jam 08–12.", "label": "b7"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk 3 jam terakhir.", "label": "b1"}
+{"text": "Apakah mesin XR101 pada 1 jam terakhir terlihat stabil?", "label": "b1"}
+{"text": "Adakah statistik rata-rata mesin XR101 pada minggu lalu.", "label": "b3"}
+{"text": "Cek statistik rata-rata, min, dan max semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Pengen tahu statistik min dan max mesin XP888A pada bulan lalu.", "label": "b4"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max mesin XR101 pada hari ini.", "label": "b2"}
+{"text": "Cek tren semua mesin pada seluruh periode, arahnya kemana?", "label": "b18"}
+{"text": "Cek statistik rata-rata mesin XP888A dan PQ667 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Tampilkan ringkasan semua mesin seluruh periode: rata-rata dan puncak nilai.", "label": "b18"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin pada hari ini.", "label": "b14"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Ringkas pergerakan semua mesin 2 minggu terakhir (naik/turun/stabil).", "label": "b15"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Apakah ringkasan min dan max mesin XR101 2 hari terakhir.", "label": "b2"}
+{"text": "Kapan titik puncak semua mesin pada hari ini?", "label": "b14"}
+{"text": "Coba lihat statistik min dan max mesin PQ667 untuk seluruh periode.", "label": "b6"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk jam 08–12.", "label": "b7"}
+{"text": "Adakah fluktuasi besar pada semua mesin jam 08–12?", "label": "b13"}
+{"text": "Harap tampilkan ringkasan rata-rata, min, dan max mesin XP888A dan XR101 3 jam terakhir.", "label": "b7"}
+{"text": "Apakah semua mesin minggu ini menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Bagaimana tren semua mesin minggu ini, cenderung naik atau turun?", "label": "b15"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 2 minggu terakhir.", "label": "b9"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max mesin XR101 pada tahun lalu.", "label": "b5"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin XR101 pada dari awal pencatatan.", "label": "b6"}
+{"text": "Ringkas pergerakan mesin XP888A 3 jam terakhir (naik/turun/stabil).", "label": "b1"}
+{"text": "Kapan titik puncak mesin PQ667 pada 1 jam terakhir?", "label": "b1"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 tahun lalu (naik/turun/stabil).", "label": "b11"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk 2 bulan terakhir.", "label": "b10"}
+{"text": "Apakah semua mesin minggu ini menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Ringkas pergerakan semua mesin 1 jam terakhir (naik/turun/stabil).", "label": "b13"}
+{"text": "Harap tampilkan ringkasan min dan max mesin XP888A dan PQ667 tahun ini.", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada semua mesin bulan lalu?", "label": "b16"}
+{"text": "Tolong ringkas statistik rata-rata mesin PQ667 pada 2 minggu terakhir.", "label": "b3"}
+{"text": "Apakah mesin PQ667 dan XR101 pada hari ini terlihat stabil?", "label": "b8"}
+{"text": "Tolong ringkas ringkasan rata-rata mesin PQ667 seluruh periode.", "label": "b6"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 1 jam terakhir.", "label": "b7"}
+{"text": "Cek statistik min dan max mesin PQ667 untuk minggu lalu.", "label": "b3"}
+{"text": "Tolong dong tampilkan statistik min dan max mesin PQ667 dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk seluruh periode.", "label": "b6"}
+{"text": "Apakah statistik rata-rata mesin XR101 pada seluruh periode.", "label": "b6"}
+{"text": "Bisa tampilkan gak ringkasan min dan max mesin PQ667 dan XR101 bulan ini.", "label": "b10"}
+{"text": "Tolong cek statistik rata-rata semua mesin untuk jam 08–12.", "label": "b13"}
+{"text": "Harap tampilkan statistik rata-rata mesin PQ667 dan XR101 pada kemarin.", "label": "b8"}
+{"text": "Bisa tampilkan gak statistik rata-rata mesin XP888A dan PQ667 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Apakah statistik min dan max mesin XR101 pada 2 minggu terakhir.", "label": "b3"}
+{"text": "Apakah mesin XP888A pada tahun ini terlihat stabil?", "label": "b5"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata, min, dan max mesin XR101 tahun ini.", "label": "b5"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A untuk tahun lalu.", "label": "b5"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A untuk hari ini.", "label": "b2"}
+{"text": "Tampilkan ringkasan semua mesin dari awal pencatatan: rata-rata dan puncak nilai.", "label": "b18"}
+{"text": "Mohon tampilkan statistik min dan max mesin PQ667 dan XR101 untuk semua waktu.", "label": "b12"}
+{"text": "Tolong ringkas statistik rata-rata mesin XP888A dan PQ667 pada tahun lalu.", "label": "b11"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada kemarin?", "label": "b8"}
+{"text": "Apakah mesin XR101 2 bulan terakhir menunjukkan pola yang konsisten?", "label": "b4"}
+{"text": "Harap tampilkan statistik min dan max semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 beberapa jam terakhir?", "label": "b7"}
+{"text": "Coba lihat statistik min dan max mesin XR101 pada tahun lalu.", "label": "b5"}
+{"text": "Tampilkan statistik min dan max mesin PQ667 dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max semua mesin pada dari awal pencatatan.", "label": "b18"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 dan XR101 untuk hari ini.", "label": "b8"}
+{"text": "Coba lihat ringkasan rata-rata semua mesin semua waktu.", "label": "b18"}
+{"text": "Harap tampilkan ringkasan min dan max semua mesin 3 jam terakhir.", "label": "b13"}
+{"text": "Harap tampilkan ringkasan rata-rata mesin PQ667 dan XR101 2 hari terakhir.", "label": "b8"}
+{"text": "Coba lihat ringkasan rata-rata mesin PQ667 semua waktu.", "label": "b6"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 seluruh periode (naik/turun/stabil).", "label": "b12"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Apakah semua mesin hari ini menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Bisa tampilkan gak statistik rata-rata semua mesin pada dari awal pencatatan.", "label": "b18"}
+{"text": "Tolong ringkas statistik rata-rata semua mesin pada tahun lalu.", "label": "b17"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Bagaimana tren mesin XP888A dan PQ667 minggu ini, cenderung naik atau turun?", "label": "b9"}
+{"text": "Tolong cek statistik min dan max semua mesin pada semua waktu.", "label": "b18"}
+{"text": "Apakah mesin XR101 tahun lalu menunjukkan pola yang konsisten?", "label": "b5"}
+{"text": "Harap tampilkan ringkasan rata-rata mesin PQ667 jam 08–12.", "label": "b1"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 semua waktu?", "label": "b6"}
+{"text": "Tolong cek ringkasan rata-rata semua mesin minggu lalu.", "label": "b15"}
+{"text": "Tampilkan statistik rata-rata mesin XP888A dan PQ667 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Tampilkan ringkasan semua mesin 2 minggu terakhir: rata-rata dan puncak nilai.", "label": "b15"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk semua waktu.", "label": "b12"}
+{"text": "Ringkas pergerakan semua mesin kemarin (naik/turun/stabil).", "label": "b14"}
+{"text": "Apakah mesin XP888A dan XR101 pada seluruh periode terlihat stabil?", "label": "b12"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 jam 08–12: rata-rata dan puncak nilai.", "label": "b7"}
+{"text": "Bagaimana tren mesin XP888A bulan lalu, cenderung naik atau turun?", "label": "b4"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk dari awal pencatatan.", "label": "b18"}
+{"text": "Tampilkan ringkasan min dan max mesin XR101 3 jam terakhir.", "label": "b1"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk minggu lalu.", "label": "b3"}
+{"text": "Tolong dong tampilkan statistik min dan max semua mesin pada minggu lalu.", "label": "b15"}
+{"text": "Apakah mesin XP888A dan PQ667 pada tahun lalu terlihat stabil?", "label": "b11"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin XP888A pada minggu ini.", "label": "b3"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata mesin XP888A dan XR101 bulan lalu.", "label": "b10"}
+{"text": "Apakah mesin PQ667 dan XR101 pada 2 minggu terakhir terlihat stabil?", "label": "b9"}
+{"text": "Apakah mesin XP888A 2 hari terakhir menunjukkan pola yang konsisten?", "label": "b2"}
+{"text": "Tolong ringkas statistik min dan max semua mesin pada 2 minggu terakhir.", "label": "b15"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada bulan lalu.", "label": "b10"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk 1 jam terakhir.", "label": "b1"}
+{"text": "Kapan titik puncak semua mesin pada bulan ini?", "label": "b16"}
+{"text": "Ringkas pergerakan semua mesin 2 hari terakhir (naik/turun/stabil).", "label": "b14"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin pada tahun lalu.", "label": "b17"}
+{"text": "Bisa tampilkan gak ringkasan min dan max mesin XP888A dan PQ667 minggu ini.", "label": "b9"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A pada minggu ini.", "label": "b3"}
+{"text": "Tolong cek ringkasan rata-rata, min, dan max mesin XR101 semua waktu.", "label": "b6"}
+{"text": "Tampilkan ringkasan semua mesin bulan ini: rata-rata dan puncak nilai.", "label": "b16"}
+{"text": "Tolong ringkas statistik rata-rata mesin PQ667 pada hari ini.", "label": "b2"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A pada tahun ini.", "label": "b5"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk 3 jam terakhir.", "label": "b1"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XP888A pada bulan ini.", "label": "b4"}
+{"text": "Adakah ringkasan rata-rata mesin XR101 bulan ini.", "label": "b4"}
+{"text": "Tampilkan statistik rata-rata mesin PQ667 dan XR101 untuk bulan ini.", "label": "b10"}
+{"text": "Ringkas pergerakan semua mesin minggu lalu (naik/turun/stabil).", "label": "b15"}
+{"text": "Ringkas pergerakan semua mesin tahun ini (naik/turun/stabil).", "label": "b17"}
+{"text": "Apakah semua mesin hari ini menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Mohon periksa statistik rata-rata mesin PQ667 dan XR101 pada beberapa jam terakhir.", "label": "b7"}
+{"text": "Apakah semua mesin pada 1 jam terakhir terlihat stabil?", "label": "b13"}
+{"text": "Apakah mesin PQ667 dan XR101 pada jam 08–12 terlihat stabil?", "label": "b7"}
+{"text": "Kapan titik puncak mesin XP888A pada 2 hari terakhir?", "label": "b2"}
+{"text": "Tolong cek ringkasan min dan max mesin PQ667 2 hari terakhir.", "label": "b2"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin XP888A dan XR101 pada jam 08–12.", "label": "b7"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk bulan lalu.", "label": "b10"}
+{"text": "Pengen tahu ringkasan rata-rata mesin PQ667 dan XR101 minggu ini.", "label": "b9"}
+{"text": "Cek statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk tahun lalu.", "label": "b11"}
+{"text": "Apakah mesin PQ667 dan XR101 2 bulan terakhir menunjukkan pola yang konsisten?", "label": "b10"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada tahun lalu.", "label": "b11"}
+{"text": "Apakah semua mesin dari awal pencatatan menunjukkan pola yang konsisten?", "label": "b18"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin XR101 pada bulan lalu.", "label": "b4"}
+{"text": "Harap tampilkan statistik min dan max semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Adakah statistik min dan max mesin PQ667 dan XR101 untuk seluruh periode.", "label": "b12"}
+{"text": "Kapan titik puncak mesin XP888A dan XR101 pada jam 08–12?", "label": "b7"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 minggu ini (naik/turun/stabil).", "label": "b9"}
+{"text": "Mohon tampilkan statistik rata-rata semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Coba lihat statistik rata-rata semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada 2 minggu terakhir, arahnya kemana?", "label": "b9"}
+{"text": "Ringkas pergerakan semua mesin tahun ini (naik/turun/stabil).", "label": "b17"}
+{"text": "Harap tampilkan statistik min dan max semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Cek statistik rata-rata, min, dan max mesin XP888A pada 3 jam terakhir.", "label": "b1"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin PQ667 pada tahun ini.", "label": "b5"}
+{"text": "Apakah semua mesin hari ini menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Apakah semua mesin 2 bulan terakhir menunjukkan pola yang konsisten?", "label": "b16"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk beberapa jam terakhir.", "label": "b13"}
+{"text": "Apakah statistik rata-rata, min, dan max semua mesin untuk tahun ini.", "label": "b17"}
+{"text": "Apakah mesin XR101 minggu lalu menunjukkan pola yang konsisten?", "label": "b3"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 untuk dari awal pencatatan.", "label": "b6"}
+{"text": "Tolong dong tampilkan statistik min dan max semua mesin pada minggu lalu.", "label": "b15"}
+{"text": "Tolong dong tampilkan ringkasan min dan max mesin XR101 beberapa jam terakhir.", "label": "b1"}
+{"text": "Tolong cek statistik min dan max mesin XP888A dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Pengen tahu statistik min dan max mesin XR101 untuk seluruh periode.", "label": "b6"}
+{"text": "Tolong ringkas statistik min dan max semua mesin pada 2 minggu terakhir.", "label": "b15"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada tahun lalu?", "label": "b11"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin PQ667 dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Ringkas pergerakan mesin XP888A dan PQ667 semua waktu (naik/turun/stabil).", "label": "b12"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 minggu lalu (naik/turun/stabil).", "label": "b9"}
+{"text": "Apakah mesin PQ667 dan XR101 pada semua waktu terlihat stabil?", "label": "b12"}
+{"text": "Tolong dong tampilkan statistik rata-rata semua mesin untuk 2 hari terakhir.", "label": "b14"}
+{"text": "Apakah semua mesin kemarin menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 seluruh periode: rata-rata dan puncak nilai.", "label": "b12"}
+{"text": "Apakah mesin XP888A dan PQ667 tahun ini menunjukkan pola yang konsisten?", "label": "b11"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada bulan ini, arahnya kemana?", "label": "b10"}
+{"text": "Ringkas ringkasan rata-rata, min, dan max mesin XP888A dan XR101 hari ini.", "label": "b8"}
+{"text": "Cek statistik rata-rata, min, dan max semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin XP888A untuk tahun ini.", "label": "b5"}
+{"text": "Tolong dong tampilkan statistik rata-rata mesin PQ667 dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Bagaimana tren semua mesin minggu ini, cenderung naik atau turun?", "label": "b15"}
+{"text": "Tolong cek ringkasan min dan max mesin PQ667 dan XR101 2 hari terakhir.", "label": "b8"}
+{"text": "Cek statistik min dan max semua mesin untuk tahun ini.", "label": "b17"}
+{"text": "Tolong cek ringkasan rata-rata mesin XP888A dan XR101 seluruh periode.", "label": "b12"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max semua mesin pada 2 hari terakhir.", "label": "b14"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 kemarin?", "label": "b8"}
+{"text": "Pengen tahu statistik rata-rata mesin XP888A pada tahun lalu.", "label": "b5"}
+{"text": "Bagaimana tren mesin PQ667 dan XR101 tahun ini, cenderung naik atau turun?", "label": "b11"}
+{"text": "Apakah mesin XR101 2 minggu terakhir menunjukkan pola yang konsisten?", "label": "b3"}
+{"text": "Coba lihat statistik rata-rata semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Coba lihat statistik rata-rata semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Bisa tampilkan gak statistik rata-rata semua mesin pada 1 jam terakhir.", "label": "b13"}
+{"text": "Tampilkan ringkasan mesin XP888A dan PQ667 minggu lalu: rata-rata dan puncak nilai.", "label": "b9"}
+{"text": "Tampilkan ringkasan mesin PQ667 tahun ini: rata-rata dan puncak nilai.", "label": "b5"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada bulan ini.", "label": "b10"}
+{"text": "Adakah ringkasan min dan max mesin XR101 minggu lalu.", "label": "b3"}
+{"text": "Tolong cek statistik min dan max mesin XR101 pada tahun ini.", "label": "b5"}
+{"text": "Pengen tahu ringkasan rata-rata, min, dan max semua mesin jam 08–12.", "label": "b13"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max mesin XP888A pada minggu lalu.", "label": "b3"}
+{"text": "Apakah statistik min dan max mesin XR101 untuk tahun lalu.", "label": "b5"}
+{"text": "Kapan titik puncak semua mesin pada 2 minggu terakhir?", "label": "b15"}
+{"text": "Bagaimana tren mesin PQ667 tahun ini, cenderung naik atau turun?", "label": "b5"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata mesin PQ667 dan XR101 2 bulan terakhir.", "label": "b10"}
+{"text": "Coba lihat statistik min dan max mesin XP888A dan PQ667 pada 2 hari terakhir.", "label": "b8"}
+{"text": "Cek tren mesin PQ667 pada semua waktu, arahnya kemana?", "label": "b6"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada hari ini.", "label": "b8"}
+{"text": "Tampilkan statistik rata-rata semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Adakah statistik min dan max semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Kapan titik puncak semua mesin pada minggu ini?", "label": "b15"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin PQ667 bulan lalu.", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada semua mesin beberapa jam terakhir?", "label": "b13"}
+{"text": "Tolong ringkas statistik rata-rata mesin XR101 untuk jam 08–12.", "label": "b1"}
+{"text": "Mohon tampilkan ringkasan rata-rata mesin XR101 tahun lalu.", "label": "b5"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max mesin XP888A untuk 1 jam terakhir.", "label": "b1"}
+{"text": "Tolong tampilkan nilai terendah mesin XR101 untuk jam 08–12.", "label": "b1"}
+{"text": "Mohon tampilkan statistik min dan max mesin PQ667 dan XR101 untuk beberapa jam terakhir.", "label": "b7"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 kemarin?", "label": "b2"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk tahun ini.", "label": "b17"}
+{"text": "Tampilkan ringkasan semua mesin tahun lalu: rata-rata dan puncak nilai.", "label": "b17"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Ringkas statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada bulan lalu.", "label": "b10"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Tampilkan ringkasan semua mesin 2 hari terakhir: rata-rata dan puncak nilai.", "label": "b14"}
+{"text": "Harap tampilkan ringkasan rata-rata mesin PQ667 semua waktu.", "label": "b6"}
+{"text": "Mohon periksa ringkasan rata-rata mesin PQ667 dan XR101 bulan lalu.", "label": "b10"}
+{"text": "Apakah mesin XR101 2 bulan terakhir menunjukkan pola yang konsisten?", "label": "b4"}
+{"text": "Apakah mesin XP888A dan PQ667 pada jam 08–12 terlihat stabil?", "label": "b7"}
+{"text": "Cek tren mesin XR101 pada beberapa jam terakhir, arahnya kemana?", "label": "b1"}
+{"text": "Mohon periksa statistik min dan max mesin XP888A dan PQ667 pada tahun ini.", "label": "b11"}
+{"text": "Adakah statistik rata-rata mesin XP888A pada 2 hari terakhir.", "label": "b2"}
+{"text": "Mohon tampilkan statistik rata-rata semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin XP888A dan PQ667 pada 1 jam terakhir.", "label": "b7"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin XP888A dan XR101 pada jam 08–12.", "label": "b7"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin XR101 untuk hari ini.", "label": "b2"}
+{"text": "Tolong dong tampilkan ringkasan min dan max semua mesin bulan lalu.", "label": "b16"}
+{"text": "Apakah mesin XP888A dan XR101 kemarin menunjukkan pola yang konsisten?", "label": "b8"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin XR101 untuk tahun lalu.", "label": "b5"}
+{"text": "Kapan titik puncak mesin PQ667 pada 2 bulan terakhir?", "label": "b4"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada tahun ini.", "label": "b11"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XP888A untuk hari ini.", "label": "b2"}
+{"text": "Ringkas pergerakan mesin XR101 jam 08–12 (naik/turun/stabil).", "label": "b1"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Cek statistik min dan max mesin XP888A untuk hari ini.", "label": "b2"}
+{"text": "Adakah statistik min dan max mesin PQ667 pada 2 bulan terakhir.", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 1 jam terakhir?", "label": "b7"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan PQ667 1 jam terakhir?", "label": "b7"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 seluruh periode: rata-rata dan puncak nilai.", "label": "b12"}
+{"text": "Adakah statistik rata-rata mesin XP888A dan PQ667 untuk beberapa jam terakhir.", "label": "b7"}
+{"text": "Cek statistik min dan max semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Ringkas pergerakan semua mesin jam 08–12 (naik/turun/stabil).", "label": "b13"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max mesin XP888A pada beberapa jam terakhir.", "label": "b1"}
+{"text": "Apakah mesin PQ667 dan XR101 1 jam terakhir menunjukkan pola yang konsisten?", "label": "b7"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin XP888A untuk minggu ini.", "label": "b3"}
+{"text": "Pengen tahu ringkasan rata-rata semua mesin bulan ini.", "label": "b16"}
+{"text": "Harap tampilkan statistik min dan max mesin PQ667 pada seluruh periode.", "label": "b6"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 semua waktu.", "label": "b12"}
+{"text": "Coba lihat ringkasan min dan max mesin XP888A dan XR101 kemarin.", "label": "b8"}
+{"text": "Apakah semua mesin pada tahun lalu terlihat stabil?", "label": "b17"}
+{"text": "Ringkas statistik min dan max mesin PQ667 dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Cek statistik rata-rata mesin XP888A dan PQ667 untuk dari awal pencatatan.", "label": "b12"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata mesin XP888A 1 jam terakhir.", "label": "b1"}
+{"text": "Pengen tahu statistik min dan max semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Tolong cek statistik rata-rata mesin PQ667 pada tahun lalu.", "label": "b5"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Ringkas pergerakan semua mesin minggu ini (naik/turun/stabil).", "label": "b15"}
+{"text": "Cek tren mesin XR101 pada tahun ini, arahnya kemana?", "label": "b5"}
+{"text": "Tolong ringkas statistik min dan max mesin XP888A dan XR101 untuk minggu ini.", "label": "b9"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk tahun lalu.", "label": "b11"}
+{"text": "Tampilkan ringkasan rata-rata semua mesin kemarin.", "label": "b14"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 semua waktu.", "label": "b12"}
+{"text": "Apakah semua mesin kemarin menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Tolong ringkas ringkasan rata-rata mesin XP888A dan XR101 jam 08–12.", "label": "b7"}
+{"text": "Cek ringkasan min dan max mesin XP888A dan PQ667 2 bulan terakhir.", "label": "b10"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Cek tren mesin XP888A pada 2 hari terakhir, arahnya kemana?", "label": "b2"}
+{"text": "Apakah mesin XR101 1 jam terakhir menunjukkan pola yang konsisten?", "label": "b1"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Tolong cek statistik min dan max semua mesin pada beberapa jam terakhir.", "label": "b13"}
+{"text": "Cek ringkasan min dan max semua mesin seluruh periode.", "label": "b18"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan PQ667 untuk 3 jam terakhir.", "label": "b7"}
+{"text": "Tolong ringkas statistik min dan max semua mesin pada 2 bulan terakhir.", "label": "b16"}
+{"text": "Harap tampilkan statistik rata-rata semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk dari awal pencatatan.", "label": "b12"}
+{"text": "Adakah fluktuasi besar pada mesin XR101 1 jam terakhir?", "label": "b1"}
+{"text": "Cek tren mesin XR101 pada dari awal pencatatan, arahnya kemana?", "label": "b6"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk 2 minggu terakhir.", "label": "b3"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk 2 bulan terakhir.", "label": "b10"}
+{"text": "Ringkas pergerakan semua mesin 1 jam terakhir (naik/turun/stabil).", "label": "b13"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin untuk 1 jam terakhir.", "label": "b13"}
+{"text": "Cek ringkasan min dan max semua mesin bulan ini.", "label": "b16"}
+{"text": "Pengen tahu statistik min dan max mesin PQ667 pada bulan lalu.", "label": "b4"}
+{"text": "Ringkas pergerakan mesin XP888A dan XR101 bulan ini (naik/turun/stabil).", "label": "b10"}
+{"text": "Apakah statistik rata-rata, min, dan max semua mesin untuk 2 bulan terakhir.", "label": "b16"}
+{"text": "Mohon periksa ringkasan min dan max mesin PQ667 dan XR101 minggu lalu.", "label": "b9"}
+{"text": "Apakah semua mesin tahun ini menunjukkan pola yang konsisten?", "label": "b17"}
+{"text": "Apakah semua mesin minggu lalu menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Tampilkan ringkasan mesin XP888A dan PQ667 kemarin: rata-rata dan puncak nilai.", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk beberapa jam terakhir.", "label": "b13"}
+{"text": "Apakah mesin XR101 tahun lalu menunjukkan pola yang konsisten?", "label": "b5"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata, min, dan max semua mesin bulan ini.", "label": "b16"}
+{"text": "Cek tren mesin PQ667 pada 2 bulan terakhir, arahnya kemana?", "label": "b4"}
+{"text": "Tolong ringkas ringkasan rata-rata mesin XP888A 2 minggu terakhir.", "label": "b3"}
+{"text": "Pengen tahu ringkasan rata-rata mesin PQ667 dan XR101 tahun ini.", "label": "b11"}
+{"text": "Coba lihat ringkasan min dan max semua mesin tahun ini.", "label": "b17"}
+{"text": "Ringkas pergerakan mesin XP888A bulan lalu (naik/turun/stabil).", "label": "b4"}
+{"text": "Apakah semua mesin tahun ini menunjukkan pola yang konsisten?", "label": "b17"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max semua mesin untuk 2 minggu terakhir.", "label": "b15"}
+{"text": "Apakah semua mesin hari ini menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk jam 08–12.", "label": "b1"}
+{"text": "Apakah mesin XP888A 2 hari terakhir menunjukkan pola yang konsisten?", "label": "b2"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max semua mesin tahun lalu.", "label": "b17"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin PQ667 untuk minggu ini.", "label": "b3"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada minggu lalu?", "label": "b9"}
+{"text": "Apakah mesin PQ667 pada hari ini terlihat stabil?", "label": "b2"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XR101 pada semua waktu.", "label": "b6"}
+{"text": "Cek tren semua mesin pada 1 jam terakhir, arahnya kemana?", "label": "b13"}
+{"text": "Adakah fluktuasi besar pada semua mesin bulan lalu?", "label": "b16"}
+{"text": "Kapan titik puncak semua mesin pada 2 minggu terakhir?", "label": "b15"}
+{"text": "Tolong ringkas statistik rata-rata mesin PQ667 pada jam 08–12.", "label": "b1"}
+{"text": "Bagaimana tren semua mesin 1 jam terakhir, cenderung naik atau turun?", "label": "b13"}
+{"text": "Apakah semua mesin tahun lalu menunjukkan pola yang konsisten?", "label": "b17"}
+{"text": "Apakah semua mesin semua waktu menunjukkan pola yang konsisten?", "label": "b18"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin XP888A dan XR101 pada bulan ini.", "label": "b10"}
+{"text": "Ringkas pergerakan semua mesin hari ini (naik/turun/stabil).", "label": "b14"}
+{"text": "Adakah ringkasan rata-rata, min, dan max mesin XR101 2 minggu terakhir.", "label": "b3"}
+{"text": "Cek statistik rata-rata, min, dan max semua mesin untuk tahun ini.", "label": "b17"}
+{"text": "Apakah semua mesin minggu lalu menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Tampilkan ringkasan rata-rata mesin XP888A dan XR101 bulan lalu.", "label": "b10"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan PQ667 untuk tahun lalu.", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 3 jam terakhir?", "label": "b7"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin XP888A dan PQ667 pada semua waktu.", "label": "b12"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 bulan lalu: rata-rata dan puncak nilai.", "label": "b10"}
+{"text": "Mohon periksa ringkasan min dan max semua mesin hari ini.", "label": "b14"}
+{"text": "Apakah mesin XR101 pada 1 jam terakhir terlihat stabil?", "label": "b1"}
+{"text": "Cek tren mesin PQ667 pada jam 08–12, arahnya kemana?", "label": "b1"}
+{"text": "Apakah mesin PQ667 dan XR101 pada seluruh periode terlihat stabil?", "label": "b12"}
+{"text": "Harap tampilkan ringkasan rata-rata, min, dan max semua mesin 2 bulan terakhir.", "label": "b16"}
+{"text": "Apakah semua mesin tahun ini menunjukkan pola yang konsisten?", "label": "b17"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk seluruh periode.", "label": "b6"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata, min, dan max mesin PQ667 minggu lalu.", "label": "b3"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada bulan lalu?", "label": "b10"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 tahun lalu.", "label": "b11"}
+{"text": "Coba lihat statistik rata-rata semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Adakah statistik rata-rata semua mesin pada hari ini.", "label": "b14"}
+{"text": "Ringkas pergerakan semua mesin semua waktu (naik/turun/stabil).", "label": "b18"}
+{"text": "Apakah statistik min dan max mesin XR101 pada minggu lalu.", "label": "b3"}
+{"text": "Pengen tahu statistik rata-rata mesin XP888A dan XR101 untuk semua waktu.", "label": "b12"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max mesin PQ667 pada semua waktu.", "label": "b6"}
+{"text": "Tampilkan ringkasan mesin XP888A dan XR101 beberapa jam terakhir: rata-rata dan puncak nilai.", "label": "b7"}
+{"text": "Adakah statistik rata-rata mesin PQ667 pada 2 hari terakhir.", "label": "b2"}
+{"text": "Tolong cek statistik rata-rata mesin PQ667 dan XR101 pada bulan ini.", "label": "b10"}
+{"text": "Kapan titik puncak semua mesin pada 1 jam terakhir?", "label": "b13"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin XP888A dan XR101 pada tahun ini.", "label": "b11"}
+{"text": "Tampilkan ringkasan semua mesin tahun lalu: rata-rata dan puncak nilai.", "label": "b17"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max semua mesin untuk 2 hari terakhir.", "label": "b14"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk tahun lalu.", "label": "b17"}
+{"text": "Pengen tahu statistik min dan max semua mesin pada kemarin.", "label": "b14"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk tahun lalu.", "label": "b11"}
+{"text": "Harap tampilkan statistik min dan max mesin XR101 untuk jam 08–12.", "label": "b1"}
+{"text": "Adakah ringkasan rata-rata semua mesin beberapa jam terakhir.", "label": "b13"}
+{"text": "Bagaimana tren semua mesin jam 08–12, cenderung naik atau turun?", "label": "b13"}
+{"text": "Adakah fluktuasi besar pada semua mesin 2 bulan terakhir?", "label": "b16"}
+{"text": "Tampilkan ringkasan mesin XR101 dari awal pencatatan: rata-rata dan puncak nilai.", "label": "b6"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max mesin XR101 pada minggu ini.", "label": "b3"}
+{"text": "Pengen tahu statistik min dan max mesin XP888A dan PQ667 untuk tahun lalu.", "label": "b11"}
+{"text": "Coba lihat ringkasan rata-rata semua mesin bulan ini.", "label": "b16"}
+{"text": "Cek tren semua mesin pada seluruh periode, arahnya kemana?", "label": "b18"}
+{"text": "Ringkas statistik rata-rata, min, dan max mesin PQ667 pada 2 minggu terakhir.", "label": "b3"}
+{"text": "Ringkas statistik rata-rata semua mesin untuk tahun lalu.", "label": "b17"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Cek tren mesin XP888A pada seluruh periode, arahnya kemana?", "label": "b6"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk bulan ini.", "label": "b10"}
+{"text": "Tampilkan ringkasan mesin XP888A dan XR101 dari awal pencatatan: rata-rata dan puncak nilai.", "label": "b12"}
+{"text": "Cek ringkasan min dan max mesin XR101 tahun ini.", "label": "b5"}
+{"text": "Apakah mesin XP888A dan XR101 hari ini menunjukkan pola yang konsisten?", "label": "b8"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin XR101 untuk tahun ini.", "label": "b5"}
+{"text": "Pengen tahu statistik rata-rata mesin XP888A dan XR101 pada kemarin.", "label": "b8"}
+{"text": "Adakah ringkasan rata-rata, min, dan max mesin XP888A dan XR101 kemarin.", "label": "b8"}
+{"text": "Apakah ringkasan min dan max mesin PQ667 dan XR101 beberapa jam terakhir.", "label": "b7"}
+{"text": "Tolong tampilkan nilai tertinggi mesin PQ667 dan XR101 untuk tahun lalu.", "label": "b11"}
+{"text": "Bagaimana tren semua mesin beberapa jam terakhir, cenderung naik atau turun?", "label": "b13"}
+{"text": "Ringkas ringkasan rata-rata, min, dan max mesin XP888A hari ini.", "label": "b2"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada 2 hari terakhir, arahnya kemana?", "label": "b8"}
+{"text": "Harap tampilkan ringkasan rata-rata mesin XR101 2 minggu terakhir.", "label": "b3"}
+{"text": "Tolong cek ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 1 jam terakhir.", "label": "b7"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin PQ667 pada 2 bulan terakhir.", "label": "b4"}
+{"text": "Tolong ringkas ringkasan rata-rata semua mesin 2 bulan terakhir.", "label": "b16"}
+{"text": "Bagaimana tren mesin PQ667 semua waktu, cenderung naik atau turun?", "label": "b6"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin XP888A pada 2 hari terakhir.", "label": "b2"}
+{"text": "Bagaimana tren mesin XR101 hari ini, cenderung naik atau turun?", "label": "b2"}
+{"text": "Tolong cek statistik rata-rata mesin PQ667 dan XR101 untuk bulan ini.", "label": "b10"}
+{"text": "Bagaimana tren semua mesin 2 minggu terakhir, cenderung naik atau turun?", "label": "b15"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A dan XR101 pada jam 08–12.", "label": "b7"}
+{"text": "Harap tampilkan statistik rata-rata semua mesin untuk tahun ini.", "label": "b17"}
+{"text": "Pengen tahu ringkasan rata-rata, min, dan max semua mesin tahun lalu.", "label": "b17"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan XR101 tahun ini?", "label": "b11"}
+{"text": "Bisa tampilkan gak statistik rata-rata mesin XP888A pada minggu ini.", "label": "b3"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 2 minggu terakhir.", "label": "b9"}
+{"text": "Kapan titik puncak mesin PQ667 pada kemarin?", "label": "b2"}
+{"text": "Cek tren semua mesin pada kemarin, arahnya kemana?", "label": "b14"}
+{"text": "Ringkas pergerakan semua mesin tahun lalu (naik/turun/stabil).", "label": "b17"}
+{"text": "Cek ringkasan min dan max mesin XP888A dan XR101 2 minggu terakhir.", "label": "b9"}
+{"text": "Adakah statistik min dan max mesin PQ667 pada tahun ini.", "label": "b5"}
+{"text": "Coba lihat statistik min dan max semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Cek tren mesin XP888A pada tahun lalu, arahnya kemana?", "label": "b5"}
+{"text": "Apakah ringkasan min dan max mesin XP888A dan XR101 2 hari terakhir.", "label": "b8"}
+{"text": "Kapan titik puncak mesin XP888A dan XR101 pada kemarin?", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah mesin XR101 untuk kemarin.", "label": "b2"}
+{"text": "Tampilkan ringkasan rata-rata semua mesin beberapa jam terakhir.", "label": "b13"}
+{"text": "Ringkas pergerakan semua mesin tahun ini (naik/turun/stabil).", "label": "b17"}
+{"text": "Cek statistik rata-rata mesin XP888A dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Apakah mesin PQ667 dan XR101 tahun lalu menunjukkan pola yang konsisten?", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada semua mesin bulan ini?", "label": "b16"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan PQ667 untuk tahun ini.", "label": "b11"}
+{"text": "Apakah mesin XR101 pada minggu lalu terlihat stabil?", "label": "b3"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A untuk semua waktu.", "label": "b6"}
+{"text": "Cek tren mesin PQ667 pada semua waktu, arahnya kemana?", "label": "b6"}
+{"text": "Cek statistik rata-rata semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Adakah fluktuasi besar pada mesin XR101 minggu ini?", "label": "b3"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada minggu lalu, arahnya kemana?", "label": "b9"}
+{"text": "Tolong tampilkan nilai terendah mesin XR101 untuk semua waktu.", "label": "b6"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata, min, dan max mesin PQ667 jam 08–12.", "label": "b1"}
+{"text": "Tampilkan ringkasan mesin PQ667 1 jam terakhir: rata-rata dan puncak nilai.", "label": "b1"}
+{"text": "Tampilkan ringkasan mesin XR101 seluruh periode: rata-rata dan puncak nilai.", "label": "b6"}
+{"text": "Tolong ringkas statistik min dan max semua mesin pada bulan lalu.", "label": "b16"}
+{"text": "Kapan titik puncak mesin XP888A pada tahun ini?", "label": "b5"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin PQ667 untuk tahun ini.", "label": "b5"}
+{"text": "Adakah statistik rata-rata, min, dan max semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Adakah ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 2 minggu terakhir.", "label": "b9"}
+{"text": "Apakah semua mesin pada hari ini terlihat stabil?", "label": "b14"}
+{"text": "Coba lihat statistik min dan max semua mesin untuk 2 bulan terakhir.", "label": "b16"}
+{"text": "Tolong ringkas statistik rata-rata mesin PQ667 untuk bulan lalu.", "label": "b4"}
+{"text": "Cek tren mesin XR101 pada tahun lalu, arahnya kemana?", "label": "b5"}
+{"text": "Tampilkan statistik rata-rata, min, dan max semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Tolong dong tampilkan statistik rata-rata mesin PQ667 untuk hari ini.", "label": "b2"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk minggu ini.", "label": "b9"}
+{"text": "Tolong dong tampilkan statistik rata-rata mesin XP888A dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin XR101 untuk minggu ini.", "label": "b3"}
+{"text": "Ringkas pergerakan semua mesin minggu ini (naik/turun/stabil).", "label": "b15"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A jam 08–12?", "label": "b1"}
+{"text": "Cek tren semua mesin pada tahun lalu, arahnya kemana?", "label": "b17"}
+{"text": "Tolong ringkas ringkasan rata-rata, min, dan max semua mesin hari ini.", "label": "b14"}
+{"text": "Tolong dong tampilkan statistik min dan max mesin XR101 untuk 2 hari terakhir.", "label": "b2"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 minggu lalu.", "label": "b9"}
+{"text": "Apakah mesin XP888A dan PQ667 minggu ini menunjukkan pola yang konsisten?", "label": "b9"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk 2 minggu terakhir.", "label": "b15"}
+{"text": "Tolong cek statistik rata-rata mesin PQ667 dan XR101 pada bulan lalu.", "label": "b10"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max semua mesin seluruh periode.", "label": "b18"}
+{"text": "Apakah statistik rata-rata mesin PQ667 untuk tahun lalu.", "label": "b5"}
+{"text": "Ringkas statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk semua waktu.", "label": "b12"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk beberapa jam terakhir.", "label": "b13"}
+{"text": "Cek statistik rata-rata mesin XR101 untuk 1 jam terakhir.", "label": "b1"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk tahun ini.", "label": "b5"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin pada minggu ini.", "label": "b15"}
+{"text": "Ringkas pergerakan semua mesin bulan lalu (naik/turun/stabil).", "label": "b16"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk minggu lalu.", "label": "b9"}
+{"text": "Tampilkan statistik rata-rata semua mesin pada tahun lalu.", "label": "b17"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max semua mesin untuk minggu lalu.", "label": "b15"}
+{"text": "Ringkas pergerakan mesin XR101 minggu lalu (naik/turun/stabil).", "label": "b3"}
+{"text": "Kapan titik puncak mesin XR101 pada minggu lalu?", "label": "b3"}
+{"text": "Tolong cek statistik rata-rata mesin XP888A dan PQ667 pada bulan lalu.", "label": "b10"}
+{"text": "Apakah semua mesin 2 minggu terakhir menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Apakah statistik min dan max semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin XR101 semua waktu.", "label": "b6"}
+{"text": "Tampilkan statistik min dan max semua mesin pada minggu ini.", "label": "b15"}
+{"text": "Tolong tampilkan nilai terendah mesin XR101 untuk tahun ini.", "label": "b5"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin PQ667 dan XR101 untuk minggu lalu.", "label": "b9"}
+{"text": "Mohon periksa statistik rata-rata mesin XR101 pada minggu ini.", "label": "b3"}
+{"text": "Mohon tampilkan ringkasan rata-rata, min, dan max semua mesin dari awal pencatatan.", "label": "b18"}
+{"text": "Tolong ringkas statistik rata-rata mesin XP888A dan PQ667 pada seluruh periode.", "label": "b12"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin XP888A pada 1 jam terakhir.", "label": "b1"}
+{"text": "Coba lihat statistik rata-rata mesin XR101 pada bulan ini.", "label": "b4"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 seluruh periode.", "label": "b12"}
+{"text": "Apakah mesin XP888A pada beberapa jam terakhir terlihat stabil?", "label": "b1"}
+{"text": "Kapan titik puncak mesin XP888A pada tahun lalu?", "label": "b5"}
+{"text": "Coba lihat statistik rata-rata mesin XP888A dan XR101 pada minggu lalu.", "label": "b9"}
+{"text": "Pengen tahu statistik min dan max semua mesin pada 2 bulan terakhir.", "label": "b16"}
+{"text": "Pengen tahu statistik min dan max mesin XP888A dan PQ667 untuk bulan ini.", "label": "b10"}
+{"text": "Tolong dong tampilkan statistik rata-rata mesin XR101 pada minggu ini.", "label": "b3"}
+{"text": "Apakah statistik rata-rata mesin PQ667 dan XR101 untuk hari ini.", "label": "b8"}
+{"text": "Coba lihat statistik rata-rata mesin PQ667 dan XR101 pada tahun lalu.", "label": "b11"}
+{"text": "Tolong ringkas statistik rata-rata mesin PQ667 dan XR101 pada minggu ini.", "label": "b9"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin untuk dari awal pencatatan.", "label": "b18"}
+{"text": "Adakah fluktuasi besar pada semua mesin minggu lalu?", "label": "b15"}
+{"text": "Adakah statistik min dan max mesin XP888A dan PQ667 untuk minggu ini.", "label": "b9"}
+{"text": "Ringkas pergerakan mesin PQ667 minggu lalu (naik/turun/stabil).", "label": "b3"}
+{"text": "Mohon periksa statistik min dan max semua mesin untuk 1 jam terakhir.", "label": "b13"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk bulan lalu.", "label": "b16"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin PQ667 untuk jam 08–12.", "label": "b1"}
+{"text": "Cek tren semua mesin pada tahun lalu, arahnya kemana?", "label": "b17"}
+{"text": "Ringkas statistik min dan max semua mesin pada 1 jam terakhir.", "label": "b13"}
+{"text": "Cek tren semua mesin pada dari awal pencatatan, arahnya kemana?", "label": "b18"}
+{"text": "Mohon tampilkan statistik rata-rata mesin PQ667 untuk 2 hari terakhir.", "label": "b2"}
+{"text": "Cek tren semua mesin pada tahun ini, arahnya kemana?", "label": "b17"}
+{"text": "Adakah statistik rata-rata mesin XP888A pada hari ini.", "label": "b2"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata mesin PQ667 bulan ini.", "label": "b4"}
+{"text": "Cek statistik rata-rata mesin XP888A untuk tahun lalu.", "label": "b5"}
+{"text": "Apakah mesin XP888A tahun lalu menunjukkan pola yang konsisten?", "label": "b5"}
+{"text": "Apakah ringkasan rata-rata mesin PQ667 minggu ini.", "label": "b3"}
+{"text": "Coba lihat ringkasan rata-rata mesin PQ667 semua waktu.", "label": "b6"}
+{"text": "Cek statistik rata-rata, min, dan max mesin XP888A untuk bulan ini.", "label": "b4"}
+{"text": "Apakah ringkasan min dan max semua mesin jam 08–12.", "label": "b13"}
+{"text": "Tolong cek statistik rata-rata semua mesin untuk 2 bulan terakhir.", "label": "b16"}
+{"text": "Kapan titik puncak mesin PQ667 pada 1 jam terakhir?", "label": "b1"}
+{"text": "Harap tampilkan ringkasan min dan max mesin PQ667 semua waktu.", "label": "b6"}
+{"text": "Tampilkan ringkasan semua mesin bulan ini: rata-rata dan puncak nilai.", "label": "b16"}
+{"text": "Cek tren semua mesin pada 2 hari terakhir, arahnya kemana?", "label": "b14"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada 2 hari terakhir, arahnya kemana?", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk hari ini.", "label": "b2"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin XP888A dan XR101 pada beberapa jam terakhir.", "label": "b7"}
+{"text": "Apakah statistik min dan max mesin XP888A dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Kapan titik puncak semua mesin pada 2 minggu terakhir?", "label": "b15"}
+{"text": "Tampilkan statistik min dan max mesin XP888A untuk bulan ini.", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada mesin XR101 jam 08–12?", "label": "b1"}
+{"text": "Ringkas ringkasan rata-rata, min, dan max mesin XP888A dan XR101 bulan ini.", "label": "b10"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk 1 jam terakhir.", "label": "b7"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada kemarin?", "label": "b8"}
+{"text": "Cek ringkasan rata-rata, min, dan max semua mesin bulan ini.", "label": "b16"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin XP888A untuk 2 minggu terakhir.", "label": "b3"}
+{"text": "Tampilkan ringkasan semua mesin 2 minggu terakhir: rata-rata dan puncak nilai.", "label": "b15"}
+{"text": "Ringkas pergerakan mesin PQ667 dan XR101 tahun ini (naik/turun/stabil).", "label": "b11"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada semua mesin hari ini?", "label": "b14"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata, min, dan max mesin XP888A dan XR101 hari ini.", "label": "b8"}
+{"text": "Mohon periksa statistik rata-rata semua mesin pada seluruh periode.", "label": "b18"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XR101 untuk kemarin.", "label": "b2"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin XR101 2 hari terakhir.", "label": "b2"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk jam 08–12.", "label": "b7"}
+{"text": "Bisa tampilkan gak statistik rata-rata mesin PQ667 dan XR101 untuk hari ini.", "label": "b8"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Cek tren semua mesin pada tahun ini, arahnya kemana?", "label": "b17"}
+{"text": "Kapan titik puncak semua mesin pada dari awal pencatatan?", "label": "b18"}
+{"text": "Tampilkan ringkasan mesin XP888A kemarin: rata-rata dan puncak nilai.", "label": "b2"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 minggu ini?", "label": "b9"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XR101 untuk bulan ini.", "label": "b4"}
+{"text": "Pengen tahu statistik min dan max mesin XP888A pada 2 minggu terakhir.", "label": "b3"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk semua waktu.", "label": "b18"}
+{"text": "Coba lihat ringkasan rata-rata semua mesin bulan ini.", "label": "b16"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada seluruh periode, arahnya kemana?", "label": "b12"}
+{"text": "Ringkas ringkasan rata-rata semua mesin tahun ini.", "label": "b17"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A tahun ini?", "label": "b5"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan XR101 untuk minggu ini.", "label": "b9"}
+{"text": "Harap tampilkan statistik min dan max mesin XP888A untuk tahun lalu.", "label": "b5"}
+{"text": "Mohon tampilkan ringkasan rata-rata, min, dan max mesin XR101 jam 08–12.", "label": "b1"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk bulan ini.", "label": "b10"}
+{"text": "Tampilkan ringkasan rata-rata mesin PQ667 dan XR101 jam 08–12.", "label": "b7"}
+{"text": "Adakah statistik rata-rata mesin PQ667 dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Mohon tampilkan ringkasan min dan max semua mesin beberapa jam terakhir.", "label": "b13"}
+{"text": "Ringkas statistik min dan max mesin XR101 untuk beberapa jam terakhir.", "label": "b1"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk 3 jam terakhir.", "label": "b7"}
+{"text": "Tampilkan statistik min dan max mesin XP888A dan XR101 untuk minggu ini.", "label": "b9"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk hari ini.", "label": "b2"}
+{"text": "Tolong cek ringkasan min dan max mesin PQ667 bulan ini.", "label": "b4"}
+{"text": "Apakah semua mesin 2 minggu terakhir menunjukkan pola yang konsisten?", "label": "b15"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada 2 minggu terakhir, arahnya kemana?", "label": "b9"}
+{"text": "Apakah mesin PQ667 dan XR101 pada tahun ini terlihat stabil?", "label": "b11"}
+{"text": "Cek tren semua mesin pada tahun lalu, arahnya kemana?", "label": "b17"}
+{"text": "Adakah statistik min dan max mesin XP888A dan XR101 untuk seluruh periode.", "label": "b12"}
+{"text": "Kapan titik puncak mesin XR101 pada hari ini?", "label": "b2"}
+{"text": "Harap tampilkan statistik rata-rata mesin XP888A dan XR101 untuk 2 bulan terakhir.", "label": "b10"}
+{"text": "Apakah mesin XP888A dan XR101 pada tahun ini terlihat stabil?", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A tahun lalu?", "label": "b5"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan XR101 untuk tahun lalu.", "label": "b11"}
+{"text": "Cek tren semua mesin pada kemarin, arahnya kemana?", "label": "b14"}
+{"text": "Tolong dong tampilkan ringkasan min dan max semua mesin minggu lalu.", "label": "b15"}
+{"text": "Apakah mesin XP888A dan XR101 pada tahun lalu terlihat stabil?", "label": "b11"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk tahun ini.", "label": "b5"}
+{"text": "Apakah semua mesin seluruh periode menunjukkan pola yang konsisten?", "label": "b18"}
+{"text": "Cek ringkasan rata-rata, min, dan max mesin XP888A dan XR101 seluruh periode.", "label": "b12"}
+{"text": "Mohon tampilkan statistik min dan max mesin XP888A pada bulan lalu.", "label": "b4"}
+{"text": "Tolong ringkas ringkasan min dan max mesin XP888A dan XR101 tahun ini.", "label": "b11"}
+{"text": "Cek statistik rata-rata, min, dan max mesin XR101 pada 3 jam terakhir.", "label": "b1"}
+{"text": "Apakah semua mesin tahun lalu menunjukkan pola yang konsisten?", "label": "b17"}
+{"text": "Mohon tampilkan ringkasan rata-rata mesin XP888A dan PQ667 tahun ini.", "label": "b11"}
+{"text": "Adakah statistik rata-rata semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Apakah ringkasan rata-rata mesin XR101 hari ini.", "label": "b2"}
+{"text": "Tampilkan ringkasan mesin XP888A 2 minggu terakhir: rata-rata dan puncak nilai.", "label": "b3"}
+{"text": "Bagaimana tren semua mesin tahun ini, cenderung naik atau turun?", "label": "b17"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin PQ667 minggu ini.", "label": "b3"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan PQ667 untuk semua waktu.", "label": "b12"}
+{"text": "Coba lihat statistik rata-rata mesin XR101 untuk 3 jam terakhir.", "label": "b1"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin XP888A semua waktu.", "label": "b6"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata mesin XR101 2 bulan terakhir.", "label": "b4"}
+{"text": "Cek statistik rata-rata, min, dan max mesin XP888A untuk bulan ini.", "label": "b4"}
+{"text": "Mohon tampilkan ringkasan min dan max mesin XR101 tahun lalu.", "label": "b5"}
+{"text": "Tampilkan ringkasan min dan max mesin XP888A dan XR101 tahun ini.", "label": "b11"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin PQ667 untuk dari awal pencatatan.", "label": "b6"}
+{"text": "Tampilkan ringkasan mesin XP888A hari ini: rata-rata dan puncak nilai.", "label": "b2"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XR101 untuk minggu ini.", "label": "b3"}
+{"text": "Ringkas statistik rata-rata, min, dan max mesin XP888A untuk bulan ini.", "label": "b4"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A untuk minggu ini.", "label": "b3"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada bulan lalu?", "label": "b10"}
+{"text": "Ringkas pergerakan semua mesin 2 bulan terakhir (naik/turun/stabil).", "label": "b16"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Apakah mesin XR101 bulan lalu menunjukkan pola yang konsisten?", "label": "b4"}
+{"text": "Cek tren semua mesin pada 1 jam terakhir, arahnya kemana?", "label": "b13"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max mesin XP888A tahun ini.", "label": "b5"}
+{"text": "Kapan titik puncak semua mesin pada kemarin?", "label": "b14"}
+{"text": "Tolong dong tampilkan ringkasan min dan max mesin XP888A dan XR101 semua waktu.", "label": "b12"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A dan PQ667 pada tahun ini.", "label": "b11"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin XP888A dan XR101 pada beberapa jam terakhir.", "label": "b7"}
+{"text": "Cek tren mesin PQ667 dan XR101 pada 2 hari terakhir, arahnya kemana?", "label": "b8"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk tahun ini.", "label": "b5"}
+{"text": "Apakah semua mesin tahun ini menunjukkan pola yang konsisten?", "label": "b17"}
+{"text": "Tolong ringkas statistik min dan max mesin XP888A dan PQ667 untuk kemarin.", "label": "b8"}
+{"text": "Tampilkan ringkasan mesin XP888A seluruh periode: rata-rata dan puncak nilai.", "label": "b6"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin PQ667 dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada semua waktu.", "label": "b12"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A bulan lalu?", "label": "b4"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin XP888A pada hari ini.", "label": "b2"}
+{"text": "Tampilkan ringkasan mesin XP888A dan XR101 hari ini: rata-rata dan puncak nilai.", "label": "b8"}
+{"text": "Ringkas pergerakan semua mesin 2 bulan terakhir (naik/turun/stabil).", "label": "b16"}
+{"text": "Adakah fluktuasi besar pada mesin XR101 beberapa jam terakhir?", "label": "b1"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A semua waktu?", "label": "b6"}
+{"text": "Harap tampilkan statistik rata-rata mesin XP888A dan PQ667 pada hari ini.", "label": "b8"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk bulan ini.", "label": "b10"}
+{"text": "Coba lihat statistik rata-rata, min, dan max semua mesin untuk tahun lalu.", "label": "b17"}
+{"text": "Cek ringkasan rata-rata, min, dan max semua mesin dari awal pencatatan.", "label": "b18"}
+{"text": "Mohon periksa ringkasan min dan max mesin XP888A dan PQ667 seluruh periode.", "label": "b12"}
+{"text": "Ringkas ringkasan min dan max semua mesin beberapa jam terakhir.", "label": "b13"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 2 minggu terakhir.", "label": "b9"}
+{"text": "Tampilkan statistik min dan max mesin XR101 pada 1 jam terakhir.", "label": "b1"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XP888A untuk tahun lalu.", "label": "b5"}
+{"text": "Coba lihat ringkasan rata-rata mesin PQ667 dan XR101 dari awal pencatatan.", "label": "b12"}
+{"text": "Bagaimana tren semua mesin 2 minggu terakhir, cenderung naik atau turun?", "label": "b15"}
+{"text": "Harap tampilkan ringkasan min dan max mesin PQ667 bulan lalu.", "label": "b4"}
+{"text": "Cek tren mesin XP888A pada dari awal pencatatan, arahnya kemana?", "label": "b6"}
+{"text": "Harap tampilkan statistik rata-rata mesin PQ667 untuk minggu lalu.", "label": "b3"}
+{"text": "Coba lihat statistik rata-rata, min, dan max semua mesin pada tahun lalu.", "label": "b17"}
+{"text": "Apakah mesin XP888A dan XR101 minggu lalu menunjukkan pola yang konsisten?", "label": "b9"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max semua mesin untuk kemarin.", "label": "b14"}
+{"text": "Bagaimana tren mesin XP888A minggu lalu, cenderung naik atau turun?", "label": "b3"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin PQ667 pada bulan lalu.", "label": "b4"}
+{"text": "Tampilkan ringkasan mesin XP888A hari ini: rata-rata dan puncak nilai.", "label": "b2"}
+{"text": "Adakah fluktuasi besar pada semua mesin bulan lalu?", "label": "b16"}
+{"text": "Mohon periksa ringkasan min dan max mesin PQ667 2 bulan terakhir.", "label": "b4"}
+{"text": "Bisa tampilkan gak ringkasan rata-rata mesin PQ667 tahun ini.", "label": "b5"}
+{"text": "Tampilkan ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 minggu ini.", "label": "b9"}
+{"text": "Ringkas pergerakan mesin XP888A dan PQ667 jam 08–12 (naik/turun/stabil).", "label": "b7"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XR101 pada bulan ini.", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A 1 jam terakhir?", "label": "b1"}
+{"text": "Bagaimana tren mesin XP888A kemarin, cenderung naik atau turun?", "label": "b2"}
+{"text": "Apakah statistik rata-rata mesin PQ667 pada beberapa jam terakhir.", "label": "b1"}
+{"text": "Coba lihat statistik rata-rata mesin XR101 pada bulan lalu.", "label": "b4"}
+{"text": "Tolong cek statistik min dan max mesin XP888A dan PQ667 untuk semua waktu.", "label": "b12"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max mesin PQ667 dan XR101 untuk hari ini.", "label": "b8"}
+{"text": "Bagaimana tren semua mesin beberapa jam terakhir, cenderung naik atau turun?", "label": "b13"}
+{"text": "Harap tampilkan ringkasan rata-rata, min, dan max mesin XP888A dan XR101 minggu ini.", "label": "b9"}
+{"text": "Tolong cek statistik min dan max mesin XP888A untuk 2 hari terakhir.", "label": "b2"}
+{"text": "Harap tampilkan ringkasan rata-rata, min, dan max mesin PQ667 1 jam terakhir.", "label": "b1"}
+{"text": "Ringkas pergerakan mesin XP888A dan XR101 minggu lalu (naik/turun/stabil).", "label": "b9"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan XR101 untuk bulan lalu.", "label": "b10"}
+{"text": "Cek tren mesin XP888A pada bulan ini, arahnya kemana?", "label": "b4"}
+{"text": "Tolong ringkas ringkasan rata-rata mesin PQ667 hari ini.", "label": "b2"}
+{"text": "Tolong tampilkan nilai tertinggi mesin PQ667 dan XR101 untuk semua waktu.", "label": "b12"}
+{"text": "Bisa tampilkan gak ringkasan min dan max semua mesin minggu ini.", "label": "b15"}
+{"text": "Apakah semua mesin pada 1 jam terakhir terlihat stabil?", "label": "b13"}
+{"text": "Adakah ringkasan rata-rata mesin XR101 minggu ini.", "label": "b3"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A 2 bulan terakhir?", "label": "b4"}
+{"text": "Harap tampilkan statistik rata-rata semua mesin pada beberapa jam terakhir.", "label": "b13"}
+{"text": "Tolong cek ringkasan min dan max mesin XP888A dan XR101 seluruh periode.", "label": "b12"}
+{"text": "Cek ringkasan rata-rata semua mesin dari awal pencatatan.", "label": "b18"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk 1 jam terakhir.", "label": "b13"}
+{"text": "Tolong tampilkan nilai tertinggi mesin PQ667 dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Apakah mesin PQ667 dan XR101 semua waktu menunjukkan pola yang konsisten?", "label": "b12"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan PQ667 untuk bulan ini.", "label": "b10"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk tahun lalu.", "label": "b11"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XP888A dan XR101 untuk semua waktu.", "label": "b12"}
+{"text": "Kapan titik puncak semua mesin pada tahun ini?", "label": "b17"}
+{"text": "Apakah mesin XP888A pada 2 bulan terakhir terlihat stabil?", "label": "b4"}
+{"text": "Adakah statistik min dan max semua mesin pada 1 jam terakhir.", "label": "b13"}
+{"text": "Mohon tampilkan statistik min dan max semua mesin untuk tahun lalu.", "label": "b17"}
+{"text": "Cek statistik rata-rata mesin PQ667 pada seluruh periode.", "label": "b6"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 untuk 2 minggu terakhir.", "label": "b3"}
+{"text": "Mohon tampilkan ringkasan min dan max mesin XP888A dan XR101 bulan lalu.", "label": "b10"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max semua mesin pada beberapa jam terakhir.", "label": "b13"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin XR101 untuk bulan ini.", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 tahun lalu?", "label": "b11"}
+{"text": "Apakah ringkasan rata-rata semua mesin minggu lalu.", "label": "b15"}
+{"text": "Apakah mesin XP888A pada seluruh periode terlihat stabil?", "label": "b6"}
+{"text": "Bisa tampilkan gak statistik rata-rata, min, dan max mesin XP888A dan PQ667 pada bulan ini.", "label": "b10"}
+{"text": "Ringkas pergerakan mesin PQ667 minggu lalu (naik/turun/stabil).", "label": "b3"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max semua mesin pada dari awal pencatatan.", "label": "b18"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max semua mesin pada bulan ini.", "label": "b16"}
+{"text": "Tampilkan ringkasan semua mesin minggu lalu: rata-rata dan puncak nilai.", "label": "b15"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 dan XR101 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max semua mesin untuk 2 bulan terakhir.", "label": "b16"}
+{"text": "Tampilkan ringkasan min dan max mesin XP888A dan PQ667 dari awal pencatatan.", "label": "b12"}
+{"text": "Tolong ringkas statistik rata-rata mesin XR101 untuk seluruh periode.", "label": "b6"}
+{"text": "Ringkas statistik rata-rata mesin XR101 untuk seluruh periode.", "label": "b6"}
+{"text": "Adakah statistik min dan max mesin XR101 untuk minggu lalu.", "label": "b3"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada 3 jam terakhir.", "label": "b7"}
+{"text": "Apakah mesin XR101 pada tahun ini terlihat stabil?", "label": "b5"}
+{"text": "Coba lihat statistik rata-rata, min, dan max semua mesin untuk 2 hari terakhir.", "label": "b14"}
+{"text": "Tampilkan ringkasan mesin XP888A dan XR101 hari ini: rata-rata dan puncak nilai.", "label": "b8"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 tahun ini: rata-rata dan puncak nilai.", "label": "b11"}
+{"text": "Apakah ringkasan rata-rata, min, dan max mesin XP888A dan XR101 kemarin.", "label": "b8"}
+{"text": "Cek tren mesin XP888A pada minggu ini, arahnya kemana?", "label": "b3"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk 2 hari terakhir.", "label": "b14"}
+{"text": "Mohon periksa ringkasan min dan max mesin XP888A dan PQ667 2 minggu terakhir.", "label": "b9"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Tolong cek statistik rata-rata semua mesin pada 1 jam terakhir.", "label": "b13"}
+{"text": "Bagaimana tren mesin XP888A jam 08–12, cenderung naik atau turun?", "label": "b1"}
+{"text": "Cek tren mesin XR101 pada kemarin, arahnya kemana?", "label": "b2"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin XR101 pada minggu lalu.", "label": "b3"}
+{"text": "Ringkas statistik rata-rata mesin PQ667 dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Tolong dong tampilkan statistik rata-rata semua mesin pada bulan ini.", "label": "b16"}
+{"text": "Tolong cek statistik rata-rata mesin PQ667 dan XR101 pada jam 08–12.", "label": "b7"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk seluruh periode.", "label": "b12"}
+{"text": "Tolong dong tampilkan statistik min dan max semua mesin untuk 2 minggu terakhir.", "label": "b15"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max semua mesin pada 2 minggu terakhir.", "label": "b15"}
+{"text": "Ringkas pergerakan mesin PQ667 2 hari terakhir (naik/turun/stabil).", "label": "b2"}
+{"text": "Tolong dong tampilkan ringkasan min dan max mesin PQ667 dan XR101 2 minggu terakhir.", "label": "b9"}
+{"text": "Tampilkan ringkasan semua mesin bulan lalu: rata-rata dan puncak nilai.", "label": "b16"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk tahun lalu.", "label": "b5"}
+{"text": "Mohon periksa statistik rata-rata, min, dan max semua mesin pada minggu lalu.", "label": "b15"}
+{"text": "Cek tren mesin XP888A dan XR101 pada 2 minggu terakhir, arahnya kemana?", "label": "b9"}
+{"text": "Tampilkan ringkasan min dan max mesin XR101 2 minggu terakhir.", "label": "b3"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A untuk seluruh periode.", "label": "b6"}
+{"text": "Tolong ringkas ringkasan rata-rata mesin PQ667 dan XR101 tahun ini.", "label": "b11"}
+{"text": "Bagaimana tren semua mesin kemarin, cenderung naik atau turun?", "label": "b14"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XP888A dan PQ667 untuk hari ini.", "label": "b8"}
+{"text": "Adakah statistik rata-rata, min, dan max mesin XP888A dan XR101 pada tahun lalu.", "label": "b11"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin pada 2 hari terakhir.", "label": "b14"}
+{"text": "Apakah mesin PQ667 dan XR101 minggu ini menunjukkan pola yang konsisten?", "label": "b9"}
+{"text": "Harap tampilkan statistik rata-rata, min, dan max mesin XP888A pada 2 hari terakhir.", "label": "b2"}
+{"text": "Pengen tahu statistik min dan max mesin XP888A dan XR101 pada seluruh periode.", "label": "b12"}
+{"text": "Apakah mesin PQ667 dan XR101 3 jam terakhir menunjukkan pola yang konsisten?", "label": "b7"}
+{"text": "Apakah mesin XR101 tahun lalu menunjukkan pola yang konsisten?", "label": "b5"}
+{"text": "Tolong ringkas statistik rata-rata semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Ringkas pergerakan mesin XP888A dan PQ667 tahun ini (naik/turun/stabil).", "label": "b11"}
+{"text": "Ringkas statistik min dan max semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max mesin XR101 semua waktu.", "label": "b6"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 untuk 1 jam terakhir.", "label": "b1"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 minggu ini: rata-rata dan puncak nilai.", "label": "b9"}
+{"text": "Apakah mesin XR101 pada seluruh periode terlihat stabil?", "label": "b6"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin XP888A dan PQ667 untuk dari awal pencatatan.", "label": "b12"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada 2 bulan terakhir?", "label": "b10"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Coba lihat ringkasan min dan max mesin XP888A dan XR101 seluruh periode.", "label": "b12"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 bulan lalu?", "label": "b10"}
+{"text": "Tolong dong tampilkan statistik min dan max mesin XP888A dan PQ667 pada jam 08–12.", "label": "b7"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin pada dari awal pencatatan.", "label": "b18"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk minggu ini.", "label": "b15"}
+{"text": "Mohon periksa statistik rata-rata mesin XP888A dan XR101 pada 2 bulan terakhir.", "label": "b10"}
+{"text": "Tampilkan ringkasan mesin PQ667 beberapa jam terakhir: rata-rata dan puncak nilai.", "label": "b1"}
+{"text": "Adakah statistik min dan max semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Kapan titik puncak mesin PQ667 pada minggu ini?", "label": "b3"}
+{"text": "Bagaimana tren mesin PQ667 bulan lalu, cenderung naik atau turun?", "label": "b4"}
+{"text": "Cek tren semua mesin pada 1 jam terakhir, arahnya kemana?", "label": "b13"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk jam 08–12.", "label": "b1"}
+{"text": "Coba lihat statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk tahun lalu.", "label": "b11"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin PQ667 pada 3 jam terakhir.", "label": "b1"}
+{"text": "Bisa tampilkan gak ringkasan min dan max semua mesin seluruh periode.", "label": "b18"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan PQ667 bulan lalu?", "label": "b10"}
+{"text": "Ringkas statistik rata-rata mesin PQ667 dan XR101 untuk 2 minggu terakhir.", "label": "b9"}
+{"text": "Cek tren semua mesin pada 2 bulan terakhir, arahnya kemana?", "label": "b16"}
+{"text": "Apakah semua mesin 2 hari terakhir menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk 2 minggu terakhir.", "label": "b15"}
+{"text": "Tolong cek statistik min dan max mesin PQ667 dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Mohon tampilkan statistik rata-rata, min, dan max mesin XP888A untuk bulan lalu.", "label": "b4"}
+{"text": "Pengen tahu ringkasan rata-rata, min, dan max mesin XP888A minggu ini.", "label": "b3"}
+{"text": "Mohon tampilkan ringkasan rata-rata semua mesin kemarin.", "label": "b14"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin PQ667 dan XR101 untuk 2 bulan terakhir.", "label": "b10"}
+{"text": "Mohon tampilkan ringkasan rata-rata, min, dan max semua mesin 1 jam terakhir.", "label": "b13"}
+{"text": "Bisa tampilkan gak statistik rata-rata semua mesin untuk beberapa jam terakhir.", "label": "b13"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max mesin PQ667 bulan lalu.", "label": "b4"}
+{"text": "Pengen tahu ringkasan rata-rata, min, dan max semua mesin dari awal pencatatan.", "label": "b18"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XR101 pada minggu ini.", "label": "b3"}
+{"text": "Tolong cek statistik rata-rata, min, dan max mesin XP888A untuk semua waktu.", "label": "b6"}
+{"text": "Tampilkan ringkasan mesin PQ667 3 jam terakhir: rata-rata dan puncak nilai.", "label": "b1"}
+{"text": "Tampilkan ringkasan semua mesin tahun lalu: rata-rata dan puncak nilai.", "label": "b17"}
+{"text": "Ringkas ringkasan min dan max semua mesin dari awal pencatatan.", "label": "b18"}
+{"text": "Apakah semua mesin pada 2 minggu terakhir terlihat stabil?", "label": "b15"}
+{"text": "Tampilkan ringkasan min dan max mesin XP888A dan PQ667 3 jam terakhir.", "label": "b7"}
+{"text": "Apakah semua mesin kemarin menunjukkan pola yang konsisten?", "label": "b14"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata, min, dan max semua mesin bulan ini.", "label": "b16"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin PQ667 pada bulan ini.", "label": "b4"}
+{"text": "Apakah mesin XP888A dan XR101 kemarin menunjukkan pola yang konsisten?", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah mesin PQ667 dan XR101 untuk bulan ini.", "label": "b10"}
+{"text": "Bagaimana tren mesin PQ667 dan XR101 1 jam terakhir, cenderung naik atau turun?", "label": "b7"}
+{"text": "Cek statistik rata-rata, min, dan max semua mesin pada tahun ini.", "label": "b17"}
+{"text": "Ringkas pergerakan mesin XR101 tahun lalu (naik/turun/stabil).", "label": "b5"}
+{"text": "Tolong dong tampilkan statistik rata-rata semua mesin pada beberapa jam terakhir.", "label": "b13"}
+{"text": "Coba lihat ringkasan min dan max mesin XP888A kemarin.", "label": "b2"}
+{"text": "Bagaimana tren mesin PQ667 dan XR101 bulan lalu, cenderung naik atau turun?", "label": "b10"}
+{"text": "Tampilkan ringkasan mesin XP888A dan PQ667 hari ini: rata-rata dan puncak nilai.", "label": "b8"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 1 jam terakhir?", "label": "b1"}
+{"text": "Cek tren mesin XP888A dan PQ667 pada 3 jam terakhir, arahnya kemana?", "label": "b7"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata, min, dan max mesin XP888A 1 jam terakhir.", "label": "b1"}
+{"text": "Apakah mesin PQ667 dan XR101 pada minggu ini terlihat stabil?", "label": "b9"}
+{"text": "Ringkas statistik min dan max mesin PQ667 untuk dari awal pencatatan.", "label": "b6"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Kapan titik puncak mesin PQ667 pada kemarin?", "label": "b2"}
+{"text": "Ringkas pergerakan semua mesin kemarin (naik/turun/stabil).", "label": "b14"}
+{"text": "Adakah fluktuasi besar pada semua mesin tahun ini?", "label": "b17"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan XR101 minggu ini?", "label": "b9"}
+{"text": "Adakah statistik min dan max semua mesin pada kemarin.", "label": "b14"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Adakah ringkasan rata-rata, min, dan max mesin XP888A dan XR101 semua waktu.", "label": "b12"}
+{"text": "Ringkas pergerakan semua mesin bulan ini (naik/turun/stabil).", "label": "b16"}
+{"text": "Ringkas statistik rata-rata mesin XP888A pada 2 bulan terakhir.", "label": "b4"}
+{"text": "Adakah statistik rata-rata mesin PQ667 untuk semua waktu.", "label": "b6"}
+{"text": "Adakah fluktuasi besar pada semua mesin 2 hari terakhir?", "label": "b14"}
+{"text": "Cek ringkasan min dan max semua mesin 2 hari terakhir.", "label": "b14"}
+{"text": "Apakah mesin XP888A dan XR101 minggu lalu menunjukkan pola yang konsisten?", "label": "b9"}
+{"text": "Mohon tampilkan ringkasan rata-rata, min, dan max mesin XP888A 3 jam terakhir.", "label": "b1"}
+{"text": "Tolong dong tampilkan ringkasan rata-rata semua mesin tahun ini.", "label": "b17"}
+{"text": "Tolong cek ringkasan min dan max semua mesin seluruh periode.", "label": "b18"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin PQ667 untuk 1 jam terakhir.", "label": "b1"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XP888A dan XR101 untuk kemarin.", "label": "b8"}
+{"text": "Cek statistik rata-rata semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Tolong tampilkan nilai tertinggi semua mesin untuk bulan lalu.", "label": "b16"}
+{"text": "Ringkas pergerakan mesin XP888A dari awal pencatatan (naik/turun/stabil).", "label": "b6"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A dan XR101 untuk tahun ini.", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan PQ667 1 jam terakhir?", "label": "b7"}
+{"text": "Tampilkan ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 dari awal pencatatan.", "label": "b12"}
+{"text": "Tampilkan ringkasan semua mesin tahun ini: rata-rata dan puncak nilai.", "label": "b17"}
+{"text": "Kapan titik puncak mesin PQ667 dan XR101 pada 3 jam terakhir?", "label": "b7"}
+{"text": "Mohon tampilkan statistik min dan max semua mesin pada minggu ini.", "label": "b15"}
+{"text": "Mohon tampilkan statistik min dan max mesin XP888A untuk bulan ini.", "label": "b4"}
+{"text": "Apakah statistik min dan max semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Apakah mesin PQ667 pada bulan lalu terlihat stabil?", "label": "b4"}
+{"text": "Adakah fluktuasi besar pada mesin XR101 tahun ini?", "label": "b5"}
+{"text": "Tolong cek statistik min dan max mesin XP888A dan XR101 untuk bulan ini.", "label": "b10"}
+{"text": "Coba lihat ringkasan rata-rata, min, dan max semua mesin tahun ini.", "label": "b17"}
+{"text": "Tolong cek statistik rata-rata semua mesin untuk seluruh periode.", "label": "b18"}
+{"text": "Apakah mesin XP888A dan PQ667 pada seluruh periode terlihat stabil?", "label": "b12"}
+{"text": "Pengen tahu ringkasan min dan max mesin XP888A dan PQ667 jam 08–12.", "label": "b7"}
+{"text": "Cek statistik rata-rata mesin PQ667 untuk 2 bulan terakhir.", "label": "b4"}
+{"text": "Mohon tampilkan statistik rata-rata semua mesin untuk hari ini.", "label": "b14"}
+{"text": "Tolong cek statistik min dan max mesin XR101 untuk 2 bulan terakhir.", "label": "b4"}
+{"text": "Apakah semua mesin bulan lalu menunjukkan pola yang konsisten?", "label": "b16"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XP888A dan PQ667 pada dari awal pencatatan.", "label": "b12"}
+{"text": "Apakah ringkasan rata-rata semua mesin bulan lalu.", "label": "b16"}
+{"text": "Cek ringkasan rata-rata mesin XR101 semua waktu.", "label": "b6"}
+{"text": "Apakah mesin XR101 pada 2 bulan terakhir terlihat stabil?", "label": "b4"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk tahun lalu.", "label": "b5"}
+{"text": "Mohon tampilkan ringkasan rata-rata, min, dan max semua mesin 2 minggu terakhir.", "label": "b15"}
+{"text": "Apakah mesin XP888A dan PQ667 2 minggu terakhir menunjukkan pola yang konsisten?", "label": "b9"}
+{"text": "Tampilkan ringkasan semua mesin semua waktu: rata-rata dan puncak nilai.", "label": "b18"}
+{"text": "Tampilkan statistik rata-rata, min, dan max mesin PQ667 untuk tahun ini.", "label": "b5"}
+{"text": "Apakah mesin XP888A dan XR101 pada seluruh periode terlihat stabil?", "label": "b12"}
+{"text": "Tolong dong tampilkan ringkasan min dan max mesin PQ667 dan XR101 kemarin.", "label": "b8"}
+{"text": "Bagaimana tren mesin XR101 2 hari terakhir, cenderung naik atau turun?", "label": "b2"}
+{"text": "Kapan titik puncak semua mesin pada seluruh periode?", "label": "b18"}
+{"text": "Apakah statistik min dan max semua mesin pada seluruh periode.", "label": "b18"}
+{"text": "Tolong ringkas statistik rata-rata, min, dan max mesin XP888A untuk 2 minggu terakhir.", "label": "b3"}
+{"text": "Tampilkan statistik rata-rata mesin XP888A dan XR101 untuk 2 hari terakhir.", "label": "b8"}
+{"text": "Bagaimana tren mesin XR101 bulan ini, cenderung naik atau turun?", "label": "b4"}
+{"text": "Mohon periksa ringkasan rata-rata, min, dan max semua mesin 3 jam terakhir.", "label": "b13"}
+{"text": "Mohon periksa statistik rata-rata mesin PQ667 dan XR101 pada semua waktu.", "label": "b12"}
+{"text": "Pengen tahu statistik min dan max mesin PQ667 untuk jam 08–12.", "label": "b1"}
+{"text": "Tampilkan ringkasan semua mesin 2 hari terakhir: rata-rata dan puncak nilai.", "label": "b14"}
+{"text": "Apakah mesin XR101 pada dari awal pencatatan terlihat stabil?", "label": "b6"}
+{"text": "Ringkas ringkasan min dan max mesin XP888A dan XR101 semua waktu.", "label": "b12"}
+{"text": "Tolong ringkas statistik min dan max mesin XP888A dan PQ667 pada tahun lalu.", "label": "b11"}
+{"text": "Pengen tahu statistik rata-rata mesin XP888A untuk dari awal pencatatan.", "label": "b6"}
+{"text": "Adakah fluktuasi besar pada semua mesin dari awal pencatatan?", "label": "b18"}
+{"text": "Tampilkan statistik rata-rata, min, dan max semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Pengen tahu ringkasan min dan max mesin XP888A dan PQ667 2 minggu terakhir.", "label": "b9"}
+{"text": "Apakah mesin XP888A dan XR101 bulan lalu menunjukkan pola yang konsisten?", "label": "b10"}
+{"text": "Mohon tampilkan ringkasan min dan max mesin PQ667 dan XR101 dari awal pencatatan.", "label": "b12"}
+{"text": "Mohon periksa statistik rata-rata mesin XP888A untuk semua waktu.", "label": "b6"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max mesin PQ667 dan XR101 pada minggu lalu.", "label": "b9"}
+{"text": "Harap tampilkan statistik min dan max semua mesin pada 2 minggu terakhir.", "label": "b15"}
+{"text": "Apakah mesin XR101 bulan lalu menunjukkan pola yang konsisten?", "label": "b4"}
+{"text": "Pengen tahu ringkasan rata-rata, min, dan max mesin PQ667 dan XR101 bulan ini.", "label": "b10"}
+{"text": "Tolong cek ringkasan min dan max mesin XP888A bulan ini.", "label": "b4"}
+{"text": "Coba lihat statistik min dan max mesin PQ667 pada 2 bulan terakhir.", "label": "b4"}
+{"text": "Kapan titik puncak mesin XP888A dan PQ667 pada jam 08–12?", "label": "b7"}
+{"text": "Apakah mesin PQ667 dan XR101 semua waktu menunjukkan pola yang konsisten?", "label": "b12"}
+{"text": "Tampilkan ringkasan mesin XP888A kemarin: rata-rata dan puncak nilai.", "label": "b2"}
+{"text": "Tampilkan ringkasan mesin XP888A dan PQ667 seluruh periode: rata-rata dan puncak nilai.", "label": "b12"}
+{"text": "Tolong ringkas ringkasan rata-rata, min, dan max semua mesin tahun ini.", "label": "b17"}
+{"text": "Mohon periksa statistik rata-rata mesin XP888A dan PQ667 untuk tahun ini.", "label": "b11"}
+{"text": "Mohon tampilkan statistik rata-rata mesin XP888A untuk 2 hari terakhir.", "label": "b2"}
+{"text": "Pengen tahu ringkasan min dan max mesin XR101 dari awal pencatatan.", "label": "b6"}
+{"text": "Kapan titik puncak mesin PQ667 dan XR101 pada minggu ini?", "label": "b9"}
+{"text": "Bagaimana tren mesin XP888A tahun lalu, cenderung naik atau turun?", "label": "b5"}
+{"text": "Tampilkan statistik rata-rata semua mesin untuk beberapa jam terakhir.", "label": "b13"}
+{"text": "Tolong dong tampilkan ringkasan min dan max mesin XP888A dan XR101 bulan lalu.", "label": "b10"}
+{"text": "Tolong ringkas statistik min dan max semua mesin untuk 1 jam terakhir.", "label": "b13"}
+{"text": "Kapan titik puncak mesin PQ667 dan XR101 pada hari ini?", "label": "b8"}
+{"text": "Apakah statistik rata-rata, min, dan max mesin XP888A untuk 2 bulan terakhir.", "label": "b4"}
+{"text": "Cek statistik rata-rata, min, dan max semua mesin pada minggu lalu.", "label": "b15"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk bulan ini.", "label": "b16"}
+{"text": "Tolong cek statistik min dan max mesin PQ667 dan XR101 untuk dari awal pencatatan.", "label": "b12"}
+{"text": "Apakah mesin XP888A dan XR101 pada semua waktu terlihat stabil?", "label": "b12"}
+{"text": "Bagaimana tren mesin XP888A dan PQ667 tahun lalu, cenderung naik atau turun?", "label": "b11"}
+{"text": "Apakah mesin XP888A dan XR101 pada 1 jam terakhir terlihat stabil?", "label": "b7"}
+{"text": "Mohon periksa ringkasan min dan max semua mesin seluruh periode.", "label": "b18"}
+{"text": "Adakah fluktuasi besar pada mesin PQ667 dan XR101 tahun lalu?", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan PQ667 kemarin?", "label": "b8"}
+{"text": "Tolong tampilkan nilai terendah mesin XP888A untuk hari ini.", "label": "b2"}
+{"text": "Harap tampilkan ringkasan rata-rata semua mesin dari awal pencatatan.", "label": "b18"}
+{"text": "Mohon tampilkan statistik min dan max semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Pengen tahu statistik rata-rata mesin PQ667 pada semua waktu.", "label": "b6"}
+{"text": "Kapan titik puncak mesin XP888A dan XR101 pada 2 minggu terakhir?", "label": "b9"}
+{"text": "Ringkas pergerakan mesin XP888A dan XR101 tahun lalu (naik/turun/stabil).", "label": "b11"}
+{"text": "Adakah fluktuasi besar pada semua mesin bulan lalu?", "label": "b16"}
+{"text": "Tolong dong tampilkan statistik rata-rata, min, dan max semua mesin pada seluruh periode.", "label": "b18"}
+{"text": "Tampilkan ringkasan mesin PQ667 dan XR101 2 bulan terakhir: rata-rata dan puncak nilai.", "label": "b10"}
+{"text": "Tolong tampilkan nilai tertinggi mesin PQ667 dan XR101 untuk beberapa jam terakhir.", "label": "b7"}
+{"text": "Ringkas statistik min dan max semua mesin untuk 3 jam terakhir.", "label": "b13"}
+{"text": "Bisa tampilkan gak statistik min dan max mesin PQ667 dan XR101 untuk minggu ini.", "label": "b9"}
+{"text": "Ringkas pergerakan semua mesin 2 bulan terakhir (naik/turun/stabil).", "label": "b16"}
+{"text": "Tolong dong tampilkan ringkasan min dan max semua mesin 1 jam terakhir.", "label": "b13"}
+{"text": "Bisa tampilkan gak statistik rata-rata mesin XP888A untuk kemarin.", "label": "b2"}
+{"text": "Cek ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 seluruh periode.", "label": "b12"}
+{"text": "Kapan titik puncak semua mesin pada tahun ini?", "label": "b17"}
+{"text": "Adakah ringkasan rata-rata, min, dan max semua mesin 2 minggu terakhir.", "label": "b15"}
+{"text": "Apakah semua mesin pada tahun lalu terlihat stabil?", "label": "b17"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A tahun lalu?", "label": "b5"}
+{"text": "Tolong tampilkan nilai terendah semua mesin untuk dari awal pencatatan.", "label": "b18"}
+{"text": "Adakah fluktuasi besar pada semua mesin hari ini?", "label": "b14"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk 2 minggu terakhir.", "label": "b3"}
+{"text": "Ringkas pergerakan semua mesin bulan lalu (naik/turun/stabil).", "label": "b16"}
+{"text": "Cek ringkasan rata-rata, min, dan max semua mesin kemarin.", "label": "b14"}
+{"text": "Ringkas pergerakan mesin PQ667 hari ini (naik/turun/stabil).", "label": "b2"}
+{"text": "Kapan titik puncak mesin PQ667 pada 2 hari terakhir?", "label": "b2"}
+{"text": "Ringkas pergerakan mesin XP888A dan PQ667 2 hari terakhir (naik/turun/stabil).", "label": "b8"}
+{"text": "Harap tampilkan ringkasan rata-rata, min, dan max mesin XP888A dan PQ667 2 bulan terakhir.", "label": "b10"}
+{"text": "Tolong ringkas ringkasan rata-rata semua mesin hari ini.", "label": "b14"}
+{"text": "Tampilkan statistik min dan max semua mesin pada bulan ini.", "label": "b16"}
+{"text": "Apakah mesin XR101 pada 2 hari terakhir terlihat stabil?", "label": "b2"}
+{"text": "Apakah mesin XP888A dan PQ667 pada 1 jam terakhir terlihat stabil?", "label": "b7"}
+{"text": "Tolong dong tampilkan statistik min dan max mesin PQ667 pada minggu lalu.", "label": "b3"}
+{"text": "Pengen tahu ringkasan rata-rata mesin XP888A dan PQ667 dari awal pencatatan.", "label": "b12"}
+{"text": "Bisa tampilkan gak statistik min dan max semua mesin untuk jam 08–12.", "label": "b13"}
+{"text": "Adakah fluktuasi besar pada mesin XP888A dan PQ667 minggu ini?", "label": "b9"}
+{"text": "Cek tren mesin XP888A dan XR101 pada jam 08–12, arahnya kemana?", "label": "b7"}
+{"text": "Mohon tampilkan ringkasan rata-rata mesin PQ667 dan XR101 3 jam terakhir.", "label": "b7"}
+{"text": "Bagaimana tren mesin XP888A dan PQ667 tahun ini, cenderung naik atau turun?", "label": "b11"}
+{"text": "Apakah ringkasan min dan max mesin XP888A tahun ini.", "label": "b5"}
+{"text": "Kapan titik puncak semua mesin pada jam 08–12?", "label": "b13"}
+{"text": "Adakah ringkasan rata-rata semua mesin semua waktu.", "label": "b18"}
+{"text": "Apakah semua mesin seluruh periode menunjukkan pola yang konsisten?", "label": "b18"}
+{"text": "Tolong tampilkan nilai tertinggi mesin XR101 untuk bulan lalu.", "label": "b4"}
+{"text": "Pengen tahu statistik rata-rata, min, dan max mesin XR101 pada jam 08–12.", "label": "b1"}
+{"text": "Pengen tahu ringkasan rata-rata mesin XR101 tahun ini.", "label": "b5"}
+{"text": "Bagaimana tren semua mesin beberapa jam terakhir, cenderung naik atau turun?", "label": "b13"}
+{"text": "Ringkas ringkasan rata-rata, min, dan max mesin XP888A dan XR101 jam 08–12.", "label": "b7"}
+{"text": "Tampilkan ringkasan semua mesin 2 minggu terakhir: rata-rata dan puncak nilai.", "label": "b15"}

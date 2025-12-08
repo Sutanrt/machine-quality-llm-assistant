@@ -1,0 +1,9 @@
+{
+  "use_lags": [
+    "y_lag_1",
+    "y_lag_2",
+    "y_lag_3"
+  ],
+  "val_ratio": 0.15,
+  "test_ratio": 0.15
+}

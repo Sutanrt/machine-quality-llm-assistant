@@ -1,0 +1,48 @@
+from data_loader import build_df_raw
+from case1_path_pipeline import run_query  # <-- ambil fungsi pipeline final
+
+if __name__ == "__main__":
+    # 1. Load df_raw sekali di awal
+    excel_path = "/workspace/Machine_Value_Processed.xlsx"
+    sheet_name = "SW_3min"
+    csv_save   = "/workspace/df_raw.csv"
+
+    df_raw, _ = build_df_raw(
+        excel_path=excel_path,
+        sheet_name=sheet_name,
+        save_csv=csv_save,
+        with_lag=False,
+    )
+
+    print(f"[INFO] df_raw loaded: {len(df_raw)} rows. CSV saved to {csv_save}")
+
+    # 2. Query contoh (bisa diganti input user realtime)
+    examples = [
+        "Tolong tampilkan ringkasan semua mesin dari november sampai desember tahun lalu ini",
+        "Cek tren mesin XP888A hari ini",
+        "Apakah ada fluktuasi besar pada mesin XP888A dan PQ667 bulan januari tahun ini?",
+        "Mohon tampilkan nilai maksimal semua mesin tahun ini",
+        "Tunjukkan tren mesin di bulan April tahun lalu dari awal bulan sampai pertengahan",
+    ]
+
+    for q in examples:
+        print("\n=== QUERY:", q)
+        result = run_query(q, df_raw, plots_dir="./plots")
+
+        # (a) Laporan bahasa natural untuk operator
+        print("\n--- HUMAN REPORT ---")
+        print(result["human_report"])
+
+        # (b) Intent terstruktur
+        print("\n--- INTENT ---")
+        print(result["intent"])
+
+        # (c) Metadata numerik ringkas per mesin
+        print("\n--- LLM METADATA ---")
+        print(result["llm_metadata"])
+
+        # (d) Lokasi file plot yang baru disimpan
+        print("\n--- PLOT PATHS ---")
+        print(result["plot_paths"])
+
+    print("\nSelesai.")

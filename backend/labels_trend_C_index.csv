@@ -1,0 +1,13 @@
+code,name,desc
+c1,SINGLE_MONTH_RANGE_LASTYEAR,"satu mesin, rentang bulan dalam 'tahun lalu'"
+c2,SINGLE_MONTH_PART_LASTYEAR,"satu mesin, bagian bulan (awal/pertengahan/akhir) di 'tahun lalu'"
+c3,SINGLE_MONTH_RANGE_ABS_YEAR,"satu mesin, rentang bulan dengan tahun eksplisit"
+c4,MULTI_MONTH_RANGE_LASTYEAR,"beberapa mesin, rentang bulan 'tahun lalu'"
+c5,ALL_MONTH_RANGE_LASTYEAR,"semua mesin, rentang bulan 'tahun lalu'"
+c6,SINGLE_WEEK_RANGE_WITHIN_MONTH,"satu mesin, rentang pekan dalam satu bulan"
+c7,SINGLE_DAY_RANGE_WITHIN_MONTH,"satu mesin, rentang tanggal dalam satu bulan"
+c8,CROSS_YEAR_MONTH_RANGE,lintas tahun: bulan A tahun lalu → bulan B tahun ini/explicit another year
+c9,RELATIVE_WEEKS_N_LAST,N minggu terakhir (rentang relatif)
+c10,HOURLY_RANGE_IN_DAY,rentang jam pada tanggal tertentu
+c11,QUARTER_RANGE,kuartal tertentu (Q1/Q2/Q3/Q4) eksplisit
+c12,AMBIGUOUS_NEEDS_CLARIFICATION,"tidak cukup jelas, butuh klarifikasi"
