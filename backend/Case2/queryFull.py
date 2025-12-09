@@ -43,13 +43,28 @@ DF_THRESHOLDS = pd.DataFrame({
 
 
 from query_interpret import smart_predict            # post-process intent
-from time_parse import resolve_time_window           # text+pred -> TimeWindow(start,end,...)
+from time_parse import resolve_time_window, TimeWindow
+import re
 from anomaly_query_engine import run_anomaly_query   # orchestrator text→AnomalyResult
 from other_ts_loader import load_timeseries_from_df_raw2
 from payload_formatter import (
     anomaly_result_to_payload,
     pretty_print_payload,
 )
+# kata-kata yang mengindikasikan ada keterangan waktu di query
+TIME_KEYWORDS = [
+    "hari", "minggu", "bulan", "tahun",
+    "kemarin", "tadi", "lalu", "terakhir",
+    "shift", "pagi", "siang", "sore", "malam",
+    "tanggal", "tgl", "jam",
+    "januari", "februari", "maret", "april", "mei", "juni",
+    "juli", "agustus", "september", "oktober", "november", "desember",
+]
+TIME_REGEXES = [
+    re.compile(r"\b20\d{2}-\d{2}-\d{2}\b"),      # 2025-01-15
+    re.compile(r"\b\d{1,2}/\d{1,2}/\d{2,4}\b"),  # 15/01/2025
+    re.compile(r"\b\d{1,2}\s+(januari|februari|maret|april|mei|juni|juli|agustus|september|oktober|november|desember)\b", re.I),
+]
 
 # ============================================================
 # (1) Runtime model intent (Quad Head)
@@ -461,39 +476,57 @@ def load_sensor_timeseries(ts_csv_path: str) -> pd.DataFrame:
 
 def run_query_once(
     query_text: str,
-    runner: AnomalyQuadRunner,
     df_ts: pd.DataFrame,
     df_thr: pd.DataFrame,
-) -> Dict[str, Any]:
-    """
-    Satu kalimat user → payload anomaly JSON-friendly.
+    runner: AnomalyQuadRunner,
+):
+    print("[bootstrap] CASE2 df_ts rows:", len(df_ts))
+    print("[bootstrap] CASE2 df_thr rows:", len(df_thr))
 
-    Step:
-    1. smart_predict() → intent final (scope, granularity, complexity, case, route_hints, dll)
-    2. resolve_time_window() → TimeWindow(start, end, ...)
-    3. run_anomaly_query() → cari anomali di df_ts sesuai window + threshold
-    4. anomaly_result_to_payload() → siap kirim ke UI / LLM
-    """
+    # 1) Interpret intent (scope, mesin, dsb.)
+    pred = smart_predict(query_text, runner)
 
-    # 1. intent + fix rule (scope SUBSET / ALL, granularity SHIFT/HOUR/WEEK/etc, mapping case A*/R*)
-    pred_aug = smart_predict(query_text, runner)
+    # 2) Time window dari parser
+    resolved_tw = resolve_time_window(query_text, pred)
 
-    # 2. interpret waktu (hari ini? minggu lalu? shift malam? 1–20 Jan 2025? dst)
-    tw = resolve_time_window(query_text, pred_aug)
+    # 3) Cek apakah di query ada keterangan waktu eksplisit
+    low_q = query_text.lower()
+    has_time_word = any(kw in low_q for kw in TIME_KEYWORDS)
+    has_time_regex = any(rgx.search(low_q) for rgx in TIME_REGEXES)
+    has_time_expr = has_time_word or has_time_regex
 
-    # 3. cari anomaly di window tsb
-    #    NOTE: kita pakai versi run_anomaly_query yang SUDAH dipatch
-    #    untuk dukung pred_override dan resolve_time_window_fn.
+    # 4) Data coverage (ts_min / ts_max) dari df_ts
+    if df_ts.empty:
+        ts_min = ts_max = None
+    else:
+        ts_min = df_ts["ts"].min()
+        ts_max = df_ts["ts"].max()
+
+    # 5) Fallback: kalau TIDAK ada keterangan waktu sama sekali di query,
+    #    pakai seluruh rentang data yang tersedia sebagai window.
+    if not has_time_expr and ts_min is not None and ts_max is not None:
+        print("[TIME OVERRIDE] Query tanpa keterangan waktu → pakai seluruh data")
+        resolved_tw = TimeWindow(
+            start=ts_min,
+            end=ts_max,
+            granularity="DAY",
+            kind="PERIOD",
+            note="fallback: seluruh data yang tersedia",
+        )
+
+    # 6) Jalankan engine anomali dengan window yang sudah final
     result = run_anomaly_query(
-        text=query_text,
+        text=query_text,      # ganti dari query_text=...
         runner=runner,
         df_ts=df_ts,
         df_thr=df_thr,
-        pred_override=pred_aug,
-        resolve_time_window_fn=lambda _txt, _pred: tw,
+        pred_override=pred,   # ganti dari pred=...
+        resolve_time_window_fn=lambda _txt, _pred: resolved_tw,
     )
 
-    # 4. bungkus jadi payload json-friendly
+
+
+    # 7) Format payload untuk LLM/front-end
     payload = anomaly_result_to_payload(result, df_ts)
     return payload
 
