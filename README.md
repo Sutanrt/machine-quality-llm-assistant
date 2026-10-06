@@ -1,4 +1,4 @@
-# LLM-Powered Machine Data Analysis Assistant
+# End-to-End LLM-Powered Machine Quality Analysis and Prediction System
 
 An AI-powered proof of concept for exploring, analyzing, and forecasting machine operational data through structured data processing, machine learning, and a Large Language Model (LLM) interface.
 
