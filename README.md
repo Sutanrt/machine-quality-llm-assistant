@@ -74,9 +74,14 @@ This repository is therefore a simplified and cleaned public representation of t
 
 ## Architecture
 
-![System Architecture](docs/architecture.png)
+## Architecture
 
-The diagram above represents the simplified architecture included in this repository.
+The diagram below illustrates the architecture of the scaled-down public version included in this repository.
+
+<p align="center">
+  <img src="docs/machine condition analyzer.drawio.png" alt="System Architecture" width="800">
+</p>
+
 
 At a high level:
 
