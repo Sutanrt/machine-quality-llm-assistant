@@ -79,7 +79,7 @@ This repository is therefore a simplified and cleaned public representation of t
 The diagram below illustrates the architecture of the scaled-down public version included in this repository.
 
 <p align="center">
-  <img src="docs/machine condition analyzer.drawio.png" alt="System Architecture" width="800">
+  <img src="docs/machine condition analyzer architecture.drawio.png" alt="System Architecture" width="800">
 </p>
 
 
